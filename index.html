@@ -4,27 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>単語学習アプリ（完全版）</title>
-    <!-- ページ全体を隠す -->
-    <style>
-      html { visibility: hidden; }
-    </style>
-  
-    <!-- パスワードダイアログ -->
-    <script>
-      const PASSWORD = 'abceedtakai';  // ← ここを任意のパスワードに
-  
-      window.addEventListener('load', () => {
-        const input = prompt('パスワードを入力してください');
-        if (input === PASSWORD) {
-          // 正しければ表示
-          document.documentElement.style.visibility = 'visible';
-        } else {
-          alert('パスワードが違います');
-          window.location.href = 'about:blank';
-        }
-      });
-    </script>
-  
+
   <style>
     /* 基本スタイル */
     body { margin: 0; font-family: 'Segoe UI', sans-serif; background-color: #fff8e1; color: #333; }
