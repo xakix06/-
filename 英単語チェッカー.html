@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>単語学習アプリ（完全版）</title>
+    <!-- ページ全体を隠す -->
+    <style>
+      html { visibility: hidden; }
+    </style>
+  
+    <!-- パスワードダイアログ -->
+    <script>
+      const PASSWORD = 'abceedtakai';  // ← ここを任意のパスワードに
+  
+      window.addEventListener('load', () => {
+        const input = prompt('パスワードを入力してください');
+        if (input === PASSWORD) {
+          // 正しければ表示
+          document.documentElement.style.visibility = 'visible';
+        } else {
+          alert('パスワードが違います');
+          window.location.href = 'about:blank';
+        }
+      });
+    </script>
+  
+  <style>
+    /* 基本スタイル */
+    body { margin: 0; font-family: 'Segoe UI', sans-serif; background-color: #fff8e1; color: #333; }
+    header { padding: 1rem; background: linear-gradient(45deg,#ffd54f,#ffca28); text-align:center; }
+    header h1 { margin:0; font-size:1.5rem; color:#5d4037; }
+    nav { display: flex; flex-wrap: wrap; justify-content: center; }
+    nav button { margin:0.25rem; padding:0.5rem 1rem; flex: 1 1 auto; border:none; border-radius:20px; background:#ffe082; cursor:pointer; }
+    nav button:hover { background:#ffd54f; }
+    main { padding:1rem; }
+    section { display:none; }
+    section.active { display:block; }
+    .controls { display: flex; flex-wrap: wrap; gap:0.5rem; margin:0.5rem 0; align-items: center; }
+    .table-container { overflow-x: auto; }
+    table { width:100%; border-collapse:collapse; margin-top:1rem; min-width:600px; }
+    th, td { border:1px solid #ccc; padding:0.5rem; text-align:center; }
+    th { background:#fff3e0; }
+    .status-ok { background:#dcedc8; }
+    .status-ng { background:#ffcdd2; }
+    button.icon-btn { width:2rem; height:2rem; border-radius:50%; border:none; }
+    #quiz-button { position:fixed; bottom:1rem; right:1rem; width:3rem; height:3rem; border:none; border-radius:50%; background:#ffb74d; color:#fff; font-size:1.2rem; }
+    /* モバイル対応 */
+    @media (max-width: 600px) {
+      body { font-size: 14px; }
+      header h1 { font-size: 1.2rem; }
+      table { min-width: 100%; }
+      input[type=number] { width: 3rem; }
+      #quiz-button { width: 2.5rem; height: 2.5rem; bottom:0.5rem; right:0.5rem; }
+    }
+  </style>
+
+  <!-- PWA マニフェスト -->
+  <link rel="manifest" href="./manifest.json">
+  <!-- テーマカラー（Android Chrome 用） -->
+  <meta name="theme-color" content="#317EFB">
+  <!-- iOS 用ホーム画面対応 -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="単語学習アプリ">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+</head>
+<body>
+  <header>
+    <h1>非公式金フレ英単語チェッカー</h1>
+    <nav>
+      <button id="btn-list">リスト</button>
+      <button id="btn-quiz">クイズ</button>
+      <button id="btn-chart">進捗</button>
+      <button id="btn-reset">リセット</button>
+      <button id="btn-download-words">JSONダウンロード</button>
+      <button id="btn-export-progress">進捗エクスポート</button>
+    </nav>
+  </header>
+  <main>
+    <!-- リストビュー -->
+    <section id="view-list" class="active">
+      <div class="controls">
+        <div>全: <span id="total">0</span>｜👍: <span id="ok">0</span>｜👎: <span id="ng">0</span></div>
+        <label><input id="filter-ng-only" type="checkbox"> 不正解のみ</label>
+        <label>セクション: <select id="section-filter"><option value="">全部</option></select></label>
+      </div>
+      <div class="table-container">
+        <table id="word-table">
+          <thead>
+            <tr><th>No.</th><th>単語</th><th>品詞</th><th>意味</th><th>🔊</th><th>👍</th><th>👎</th><th>↺</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+    <!-- クイズビュー -->
+    <section id="view-quiz">
+      <h2>クイズ</h2>
+      <div class="controls">
+        <label><input type="radio" name="quiz-mode" value="en2ja" checked> 英→日</label>
+        <label><input type="radio" name="quiz-mode" value="ja2en"> 日→英</label>
+        <label>範囲: <input id="quiz-start" type="number" placeholder="開始ID">～<input id="quiz-end" type="number" placeholder="終了ID"></label>
+        <label><input id="quiz-unchecked" type="checkbox"> 未チェックのみ</label>
+        <button id="start-quiz" style="margin-left:auto;">開始</button>
+      </div>
+      <div id="quiz-container" style="margin-top:1rem;"></div>
+    </section>
+    <!-- 進捗チャート -->
+    <section id="view-chart">
+      <h2>進捗</h2>
+      <canvas id="progress-chart" width="300" height="150"></canvas>
+      <div>ストリーク: <span id="streak">0</span> 日</div>
+    </section>
+  </main>
+  <button id="quiz-button">❓</button>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    let words = [];
+    const STORAGE_KEY = 'vocab-progress', HISTORY_KEY = 'vocab-history';
+
+    // データ読み込み
+    fetch('words.json')
+      .then(res => res.json())
+      .then(json => { words = json; initApp(); })
+      .catch(err => console.error('words.json 読み込み失敗:', err));
+
+    function initApp() {
+      // ナビ
+      document.getElementById('btn-list').onclick = () => show('view-list');
+      document.getElementById('btn-quiz').onclick = () => show('view-quiz');
+      document.getElementById('btn-chart').onclick = () => show('view-chart');
+      document.getElementById('btn-reset').onclick = resetProgress;
+      document.getElementById('quiz-button').onclick = () => show('view-quiz');
+      document.getElementById('btn-download-words').onclick = downloadWords;
+      document.getElementById('btn-export-progress').onclick = exportProgress;
+      document.getElementById('start-quiz').onclick = startQuiz;
+      // フィルタ
+      document.getElementById('filter-ng-only').onchange = renderList;
+      document.getElementById('section-filter').onchange = renderList;
+      // セクションオプション生成
+      const sections = [...new Set(words.map(w => w.section))].sort();
+      const sel = document.getElementById('section-filter');
+      sections.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; sel.appendChild(o); });
+
+      renderList(); renderChart();
+    }
+
+    function show(id) {
+      ['view-list','view-quiz','view-chart'].forEach(v => {
+        document.getElementById(v).classList.toggle('active', v === id);
+      });
+    }
+
+    function loadProgress() { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
+    function saveProgress(p) { localStorage.setItem(STORAGE_KEY, JSON.stringify(p)); }
+    function loadHistory() { return JSON.parse(localStorage.getItem(HISTORY_KEY) || '{}'); }
+    function saveHistory(h) { localStorage.setItem(HISTORY_KEY, JSON.stringify(h)); }
+
+    function resetProgress() {
+      if (confirm('全ての進捗をリセットしますか？')) {
+        localStorage.removeItem(STORAGE_KEY);
+        localStorage.removeItem(HISTORY_KEY);
+        renderList(); renderChart();
+      }
+    }
+
+    function renderList() {
+      const prog = loadProgress();
+      const tbody = document.querySelector('#word-table tbody'); tbody.innerHTML = '';
+      let ok = 0, ng = 0;
+      const showNgOnly = document.getElementById('filter-ng-only').checked;
+      const selSection = document.getElementById('section-filter').value;
+      let list = words;
+      if (showNgOnly) list = list.filter(w => prog[w.id] === 'ng');
+      if (selSection) list = list.filter(w => w.section === selSection);
+      list.forEach(w => {
+        const status = prog[w.id]; if (status === 'ok') ok++; if (status === 'ng') ng++;
+        const tr = document.createElement('tr');
+        if (status === 'ok') tr.classList.add('status-ok');
+        if (status === 'ng') tr.classList.add('status-ng');
+        tr.innerHTML = `
+          <td>${w.id}</td>
+          <td>${w.expression}</td>
+          <td data-pos>読み込み中</td>
+          <td>${w.translation}</td>
+          <td><button onclick="play('${w.expression}')">🔊</button></td>
+          <td><button onclick="updateStatus(${w.id},'ok')">👍</button></td>
+          <td><button onclick="updateStatus(${w.id},'ng')">👎</button></td>
+          <td><button onclick="updateStatus(${w.id},'')">↺</button></td>
+        `;
+        tbody.appendChild(tr);
+        // POS 日本語化
+        const posCell = tr.querySelector('[data-pos]');
+        if (w.pos) {
+          posCell.textContent = w.pos + (w.expression.includes(' ') ? '・熟語' : '');
+        } else {
+          fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${w.expression}`)
+            .then(r => r.json())
+            .then(data => {
+              const part = data[0]?.meanings?.[0]?.partOfSpeech || 'noun';
+              const map = {
+                noun:'名詞',verb:'動詞',adjective:'形容詞',adverb:'副詞',
+                pronoun:'代名詞',preposition:'前置詞',conjunction:'接続詞',interjection:'感動詞'
+              };
+              const jp = map[part] || '名詞';
+              posCell.textContent = jp + (w.expression.includes(' ') ? '・熟語' : '');
+            })
+            .catch(() => { posCell.textContent = '名詞' + (w.expression.includes(' ') ? '・熟語' : ''); });
+        }
+      });
+      document.getElementById('total').textContent = list.length;
+      document.getElementById('ok').textContent = ok;
+      document.getElementById('ng').textContent = ng;
+      updateHistory(ok);
+    }
+
+    function updateStatus(id, status) { const p = loadProgress(); if (status) p[id]=status; else delete p[id]; saveProgress(p); renderList(); }
+    function play(text) { const u=new SpeechSynthesisUtterance(text); u.lang='en-US'; speechSynthesis.speak(u); }
+
+    let quizWords = [], idx = 0;
+    function startQuiz() {
+      const prog = loadProgress();
+      const startId = parseInt(document.getElementById('quiz-start').value)||1;
+      const endId   = parseInt(document.getElementById('quiz-end').value)||words.length;
+      const onlyUncheck = document.getElementById('quiz-unchecked')?.checked;
+      quizWords = words.filter(w=>w.id>=startId&&w.id<=endId&&(onlyUncheck?!prog[w.id]:prog[w.id]==='ng'));
+      quizWords.sort(()=>Math.random()-0.5); idx=0; nextQuiz();
+    }
+
+    function nextQuiz() {
+      const ctr = document.getElementById('quiz-container'); ctr.innerHTML='';
+      if(idx>=quizWords.length){ctr.textContent='終了！お疲れ様でした！';return;}
+      const w = quizWords[idx++];
+      const mode = document.querySelector('input[name="quiz-mode"]:checked').value;
+      let question, correct, opts;
+      if(mode==='en2ja'){
+        question = `${w.expression} の意味は？`;
+        correct = w.translation;
+        opts=[correct]; while(opts.length<4){const c=words[Math.floor(Math.random()*words.length)].translation; if(!opts.includes(c))opts.push(c);}      
+      } else {
+        question = `${w.translation} に当てはまる英単語は？`;
+        correct = w.expression;
+        opts=[correct]; while(opts.length<4){const c=words[Math.floor(Math.random()*words.length)].expression; if(!opts.includes(c))opts.push(c);}      
+      }
+      opts.sort(()=>Math.random()-0.5);
+      const div=document.createElement('div'); div.innerHTML=`<p>${question}</p>`;
+      opts.forEach(o=>{const b=document.createElement('button');b.textContent=o;b.onclick=()=>{if(o===correct){updateStatus(w.id,'ok');alert('正解！できた！');}else{updateStatus(w.id,'ng');alert('不正解… 正解:'+correct);}nextQuiz();};div.appendChild(b);});ctr.appendChild(div);
+    }
+
+    function downloadWords(){const a=document.createElement('a');a.href='words.json';a.download='words.json';a.click();}
+    function exportProgress(){const data={progress:loadProgress(),history:loadHistory()};const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=`export_${new Date().toISOString().slice(0,10)}.json`;a.click();URL.revokeObjectURL(url);}    
+    function updateHistory(okCount){const h=loadHistory();const today=new Date().toISOString().slice(0,10);h[today]=okCount;saveHistory(h);}    
+    let chart;    
+    function renderChart(){const h=loadHistory();const dates=Object.keys(h).sort();const okData=dates.map(d=>h[d]);const ngData=dates.map(d=>words.length-h[d]);const ctx=document.getElementById('progress-chart').getContext('2d');if(chart)chart.destroy();chart=new Chart(ctx,{type:'line',data:{labels:dates,datasets:[{label:'👍',data:okData},{label:'👎',data:ngData}]}});let streak=0;for(let i=dates.length-1;i>=0;i--){if(okData[i]>0)streak++;else break;}document.getElementById('streak').textContent=streak;}
+  </script>
+  <!-- サービスワーカー登録 -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('./service-worker.js')
+          .then(function(reg) { console.log('ServiceWorker registered:', reg.scope); })
+          .catch(function(err) { console.error('ServiceWorker registration failed:', err); });
+      });
+    }
+  </script>
+</body>
+</html>

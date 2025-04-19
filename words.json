@@ -1,0 +1,10341 @@
+[
+  {
+    "id": 1,
+    "expression": "anyway",
+    "translation": "ともかく",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 2,
+    "expression": "following",
+    "translation": "続く",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 3,
+    "expression": "refer",
+    "translation": "参照する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 4,
+    "expression": "available",
+    "translation": "利用可能",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 5,
+    "expression": "department",
+    "translation": "部門",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 6,
+    "expression": "conference",
+    "translation": "会議",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 7,
+    "expression": "according to",
+    "translation": "によると",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 8,
+    "expression": "likely",
+    "translation": "おそらく",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 9,
+    "expression": "offer",
+    "translation": "オファー",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 10,
+    "expression": "equipment",
+    "translation": "装置",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 11,
+    "expression": "provide",
+    "translation": "提供する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 12,
+    "expression": "local",
+    "translation": "地元",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 13,
+    "expression": "purchase",
+    "translation": "購入",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 14,
+    "expression": "opening",
+    "translation": "オープニング",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 15,
+    "expression": "construction",
+    "translation": "工事",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 16,
+    "expression": "tour",
+    "translation": "ツアー",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 17,
+    "expression": "research",
+    "translation": "研究",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 18,
+    "expression": "attend",
+    "translation": "出席する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 19,
+    "expression": "delivery",
+    "translation": "配達",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 20,
+    "expression": "recently",
+    "translation": "最近",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 21,
+    "expression": "indicate",
+    "translation": "示す",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 22,
+    "expression": "employee",
+    "translation": "従業員",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 23,
+    "expression": "additional",
+    "translation": "追加",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 24,
+    "expression": "survey",
+    "translation": "調査",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 25,
+    "expression": "review",
+    "translation": "レビュー",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 26,
+    "expression": "production",
+    "translation": "生産",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 27,
+    "expression": "located",
+    "translation": "位置した",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 28,
+    "expression": "detail",
+    "translation": "詳細",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 29,
+    "expression": "announce",
+    "translation": "発表する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 30,
+    "expression": "repair",
+    "translation": "修理",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 31,
+    "expression": "increase",
+    "translation": "増加",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 32,
+    "expression": "include",
+    "translation": "含む",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 33,
+    "expression": "currently",
+    "translation": "現在",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 34,
+    "expression": "advertising",
+    "translation": "広告",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 35,
+    "expression": "charge",
+    "translation": "充電",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 36,
+    "expression": "expect",
+    "translation": "期待する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 37,
+    "expression": "firm",
+    "translation": "固い",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 38,
+    "expression": "client",
+    "translation": "クライアント",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 39,
+    "expression": "financial",
+    "translation": "金融",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 40,
+    "expression": "annual",
+    "translation": "年間",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 41,
+    "expression": "payment",
+    "translation": "支払い",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 42,
+    "expression": "budget",
+    "translation": "予算",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 43,
+    "expression": "application",
+    "translation": "応用",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 44,
+    "expression": "contract",
+    "translation": "契約",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 45,
+    "expression": "management",
+    "translation": "管理",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 46,
+    "expression": "performance",
+    "translation": "パフォーマンス",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 47,
+    "expression": "pleased",
+    "translation": "喜んで",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 48,
+    "expression": "confirm",
+    "translation": "確認する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 49,
+    "expression": "award",
+    "translation": "賞",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 50,
+    "expression": "clothing",
+    "translation": "衣類",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 51,
+    "expression": "display",
+    "translation": "画面",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 52,
+    "expression": "candidate",
+    "translation": "候補者",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 53,
+    "expression": "state",
+    "translation": "州",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 54,
+    "expression": "exhibit",
+    "translation": "展示する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 55,
+    "expression": "session",
+    "translation": "セッション",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 56,
+    "expression": "note",
+    "translation": "注記",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 57,
+    "expression": "process",
+    "translation": "プロセス",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 58,
+    "expression": "instruction",
+    "translation": "命令",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 59,
+    "expression": "membership",
+    "translation": "メンバーシップ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 60,
+    "expression": "agency",
+    "translation": "代理店",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 61,
+    "expression": "based",
+    "translation": "ベースの",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 62,
+    "expression": "facility",
+    "translation": "施設",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 63,
+    "expression": "advance",
+    "translation": "前進",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 64,
+    "expression": "committee",
+    "translation": "委員会",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 65,
+    "expression": "successful",
+    "translation": "成功",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 66,
+    "expression": "excellent",
+    "translation": "素晴らしい",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 67,
+    "expression": "industry",
+    "translation": "業界",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 68,
+    "expression": "fee",
+    "translation": "手数料",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 69,
+    "expression": "accept",
+    "translation": "受け入れる",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 70,
+    "expression": "upcoming",
+    "translation": "今後の",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 71,
+    "expression": "latest",
+    "translation": "最新",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 72,
+    "expression": "submit",
+    "translation": "提出する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 73,
+    "expression": "transportation",
+    "translation": "交通機関",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 74,
+    "expression": "résumé",
+    "translation": "再開する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 75,
+    "expression": "executive",
+    "translation": "エグゼクティブ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 76,
+    "expression": "introduce",
+    "translation": "導入",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 77,
+    "expression": "previous",
+    "translation": "前の",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 78,
+    "expression": "proposal",
+    "translation": "提案",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 79,
+    "expression": "supply",
+    "translation": "供給",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 80,
+    "expression": "enclose",
+    "translation": "同封する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 81,
+    "expression": "policy",
+    "translation": "ポリシー",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 82,
+    "expression": "register",
+    "translation": "登録する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 83,
+    "expression": "arrange",
+    "translation": "整える",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 84,
+    "expression": "bill",
+    "translation": "請求書",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 85,
+    "expression": "hire",
+    "translation": "雇う",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 86,
+    "expression": "approve",
+    "translation": "承認する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 87,
+    "expression": "conduct",
+    "translation": "行為",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 88,
+    "expression": "opportunity",
+    "translation": "機会",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 89,
+    "expression": "deadline",
+    "translation": "締め切り",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 90,
+    "expression": "corporate",
+    "translation": "企業",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 91,
+    "expression": "warranty",
+    "translation": "保証",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 92,
+    "expression": "necessary",
+    "translation": "必要",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 93,
+    "expression": "reserve",
+    "translation": "予約する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 94,
+    "expression": "resident",
+    "translation": "居住者",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 95,
+    "expression": "create",
+    "translation": "作成する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 96,
+    "expression": "inform",
+    "translation": "知らせる",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 97,
+    "expression": "allow",
+    "translation": "許可する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 98,
+    "expression": "mention",
+    "translation": "言及",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 99,
+    "expression": "appreciate",
+    "translation": "感謝する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 100,
+    "expression": "replacement",
+    "translation": "交換",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 101,
+    "expression": "update",
+    "translation": "アップデート",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 102,
+    "expression": "branch",
+    "translation": "支店",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 103,
+    "expression": "paid",
+    "translation": "支払われた",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 104,
+    "expression": "unfortunately",
+    "translation": "残念ながら",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 105,
+    "expression": "original",
+    "translation": "オリジナル",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 106,
+    "expression": "rent",
+    "translation": "家賃",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 107,
+    "expression": "memo",
+    "translation": "メモ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 108,
+    "expression": "luggage",
+    "translation": "荷物",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 109,
+    "expression": "editor",
+    "translation": "エディタ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 110,
+    "expression": "exhibition",
+    "translation": "展示",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 111,
+    "expression": "leading",
+    "translation": "先頭に立って",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 112,
+    "expression": "organization",
+    "translation": "組織",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 113,
+    "expression": "release",
+    "translation": "リリース",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 114,
+    "expression": "limited",
+    "translation": "限定",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 115,
+    "expression": "procedure",
+    "translation": "手順",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 116,
+    "expression": "experienced",
+    "translation": "経験豊富な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 117,
+    "expression": "personnel",
+    "translation": "人員",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 118,
+    "expression": "author",
+    "translation": "著者",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 119,
+    "expression": "benefit",
+    "translation": "利点",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 120,
+    "expression": "focus",
+    "translation": "集中",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 121,
+    "expression": "participate",
+    "translation": "参加する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 122,
+    "expression": "cause",
+    "translation": "原因",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 123,
+    "expression": "degree",
+    "translation": "程度",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 124,
+    "expression": "directly",
+    "translation": "直接",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 125,
+    "expression": "host",
+    "translation": "ホスト",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 126,
+    "expression": "expert",
+    "translation": "専門家",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 127,
+    "expression": "impress",
+    "translation": "印象づける",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 128,
+    "expression": "mainly",
+    "translation": "主に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 129,
+    "expression": "suggestion",
+    "translation": "提案",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 130,
+    "expression": "supplier",
+    "translation": "サプライヤー",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 131,
+    "expression": "document",
+    "translation": "書類",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 132,
+    "expression": "remind",
+    "translation": "思い出させる",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 133,
+    "expression": "require",
+    "translation": "必要とする",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 134,
+    "expression": "representative",
+    "translation": "代表",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 135,
+    "expression": "packaging",
+    "translation": "梱包",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 136,
+    "expression": "description",
+    "translation": "説明",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 137,
+    "expression": "property",
+    "translation": "財産",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 138,
+    "expression": "extension",
+    "translation": "拡大",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 139,
+    "expression": "inquire",
+    "translation": "問い合わせる",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 140,
+    "expression": "merchandise",
+    "translation": "商品",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 141,
+    "expression": "highly",
+    "translation": "非常に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 142,
+    "expression": "result",
+    "translation": "結果",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 143,
+    "expression": "assistance",
+    "translation": "援助",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 144,
+    "expression": "encourage",
+    "translation": "奨励する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 145,
+    "expression": "individual",
+    "translation": "個人",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 146,
+    "expression": "laboratory",
+    "translation": "研究室",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 147,
+    "expression": "consider",
+    "translation": "考慮する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 148,
+    "expression": "headquarters",
+    "translation": "本部",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 149,
+    "expression": "ship",
+    "translation": "船",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 150,
+    "expression": "commercial",
+    "translation": "コマーシャル",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 151,
+    "expression": "device",
+    "translation": "デバイス",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 152,
+    "expression": "intended",
+    "translation": "意図した",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 153,
+    "expression": "brochure",
+    "translation": "パンフレット",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 154,
+    "expression": "mail",
+    "translation": "郵便",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 155,
+    "expression": "prefer",
+    "translation": "好む",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 156,
+    "expression": "response",
+    "translation": "応答",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 157,
+    "expression": "region",
+    "translation": "地域",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 158,
+    "expression": "donation",
+    "translation": "寄付",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 159,
+    "expression": "quarter",
+    "translation": "四半期",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 160,
+    "expression": "agreement",
+    "translation": "合意",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 161,
+    "expression": "journal",
+    "translation": "ジャーナル",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 162,
+    "expression": "distribute",
+    "translation": "配布する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 163,
+    "expression": "potential",
+    "translation": "潜在的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 164,
+    "expression": "reschedule",
+    "translation": "予定を変更する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 165,
+    "expression": "renew",
+    "translation": "更新する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 166,
+    "expression": "warehouse",
+    "translation": "倉庫",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 167,
+    "expression": "refund",
+    "translation": "返金",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 168,
+    "expression": "advise",
+    "translation": "アドバイスする",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 169,
+    "expression": "immediately",
+    "translation": "すぐに",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 170,
+    "expression": "council",
+    "translation": "評議会",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 171,
+    "expression": "broadcast",
+    "translation": "放送",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 172,
+    "expression": "responsible",
+    "translation": "責任者",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 173,
+    "expression": "avoid",
+    "translation": "避ける",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 174,
+    "expression": "effective",
+    "translation": "効果的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 175,
+    "expression": "invitation",
+    "translation": "招待",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 176,
+    "expression": "reduce",
+    "translation": "減らす",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 177,
+    "expression": "vehicle",
+    "translation": "車両",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 178,
+    "expression": "efficient",
+    "translation": "効率的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 179,
+    "expression": "manufacturer",
+    "translation": "メーカー",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 180,
+    "expression": "comfortable",
+    "translation": "快適",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 181,
+    "expression": "correct",
+    "translation": "正しい",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 182,
+    "expression": "downtown",
+    "translation": "ダウンタウン",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 183,
+    "expression": "method",
+    "translation": "方法",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 184,
+    "expression": "entire",
+    "translation": "全体",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 185,
+    "expression": "range",
+    "translation": "範囲",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 186,
+    "expression": "setting",
+    "translation": "設定",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 187,
+    "expression": "apologize",
+    "translation": "謝る",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 188,
+    "expression": "frequent",
+    "translation": "頻繁",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 189,
+    "expression": "promotion",
+    "translation": "プロモーション",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 190,
+    "expression": "regarding",
+    "translation": "に関して",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 191,
+    "expression": "temporary",
+    "translation": "一時的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 192,
+    "expression": "traditional",
+    "translation": "伝統的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 193,
+    "expression": "admission",
+    "translation": "入場料",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 194,
+    "expression": "fit",
+    "translation": "フィット",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 195,
+    "expression": "reference",
+    "translation": "参照",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 196,
+    "expression": "status",
+    "translation": "状態",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 197,
+    "expression": "fuel",
+    "translation": "燃料",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 198,
+    "expression": "nearly",
+    "translation": "ほぼ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 199,
+    "expression": "cafeteria",
+    "translation": "カフェテリア",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 200,
+    "expression": "determine",
+    "translation": "決定する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 201,
+    "expression": "expense",
+    "translation": "費用",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 202,
+    "expression": "overseas",
+    "translation": "海外",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 203,
+    "expression": "satisfied",
+    "translation": "満足",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 204,
+    "expression": "appear",
+    "translation": "現れる",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 205,
+    "expression": "develop",
+    "translation": "開発する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 206,
+    "expression": "improve",
+    "translation": "改善する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 207,
+    "expression": "reasonable",
+    "translation": "合理的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 208,
+    "expression": "unable",
+    "translation": "できない",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 209,
+    "expression": "delay",
+    "translation": "遅れ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 210,
+    "expression": "legal",
+    "translation": "法律上の",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 211,
+    "expression": "regulation",
+    "translation": "規制",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 212,
+    "expression": "expand",
+    "translation": "拡大する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 213,
+    "expression": "launch",
+    "translation": "打ち上げ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 214,
+    "expression": "recommendation",
+    "translation": "おすすめ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 215,
+    "expression": "direct",
+    "translation": "直接",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 216,
+    "expression": "profit",
+    "translation": "利益",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 217,
+    "expression": "seek",
+    "translation": "求める",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 218,
+    "expression": "entry",
+    "translation": "エントリ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 219,
+    "expression": "claim",
+    "translation": "請求",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 220,
+    "expression": "crew",
+    "translation": "クルー",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 221,
+    "expression": "demand",
+    "translation": "要求",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 222,
+    "expression": "figure",
+    "translation": "形",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 223,
+    "expression": "raise",
+    "translation": "上げる",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 224,
+    "expression": "attach",
+    "translation": "付ける",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 225,
+    "expression": "attract",
+    "translation": "引きつける",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 226,
+    "expression": "insurance",
+    "translation": "保険",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 227,
+    "expression": "departure",
+    "translation": "出発",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 228,
+    "expression": "mayor",
+    "translation": "市長",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 229,
+    "expression": "balance",
+    "translation": "バランス",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 230,
+    "expression": "estimate",
+    "translation": "見積もり",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 231,
+    "expression": "district",
+    "translation": "地区",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 232,
+    "expression": "former",
+    "translation": "前者",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 233,
+    "expression": "modern",
+    "translation": "モダンな",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 234,
+    "expression": "tip",
+    "translation": "ヒント",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 235,
+    "expression": "establish",
+    "translation": "確立する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 236,
+    "expression": "option",
+    "translation": "オプション",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 237,
+    "expression": "retire",
+    "translation": "引退する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 238,
+    "expression": "search",
+    "translation": "検索",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 239,
+    "expression": "specific",
+    "translation": "特定の",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 240,
+    "expression": "agricultural",
+    "translation": "農業用",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 241,
+    "expression": "historical",
+    "translation": "歴史的な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 242,
+    "expression": "helpful",
+    "translation": "役立つ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 243,
+    "expression": "complaint",
+    "translation": "苦情",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 244,
+    "expression": "related",
+    "translation": "関連している",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 245,
+    "expression": "simply",
+    "translation": "単に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 246,
+    "expression": "unique",
+    "translation": "個性的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 247,
+    "expression": "concerning",
+    "translation": "について",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 248,
+    "expression": "reputation",
+    "translation": "評判",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 249,
+    "expression": "ability",
+    "translation": "能力",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 250,
+    "expression": "arrival",
+    "translation": "到着",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 251,
+    "expression": "familiar",
+    "translation": "おなじみ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 252,
+    "expression": "ideal",
+    "translation": "理想的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 253,
+    "expression": "maintain",
+    "translation": "維持する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 254,
+    "expression": "landscaping",
+    "translation": "造園",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 255,
+    "expression": "organize",
+    "translation": "整理する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 256,
+    "expression": "significant",
+    "translation": "重要な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 257,
+    "expression": "occasion",
+    "translation": "機会",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 258,
+    "expression": "standard",
+    "translation": "標準",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 259,
+    "expression": "background",
+    "translation": "背景",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 260,
+    "expression": "guided",
+    "translation": "導かれた",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 261,
+    "expression": "advanced",
+    "translation": "高度な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 262,
+    "expression": "alternative",
+    "translation": "代替",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 263,
+    "expression": "confident",
+    "translation": "自信を持って",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 264,
+    "expression": "decade",
+    "translation": "十年",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 265,
+    "expression": "initial",
+    "translation": "イニシャル",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 266,
+    "expression": "separate",
+    "translation": "別",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 267,
+    "expression": "celebration",
+    "translation": "お祝い",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 268,
+    "expression": "concern",
+    "translation": "懸念",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 269,
+    "expression": "environment",
+    "translation": "環境",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 270,
+    "expression": "operate",
+    "translation": "操作する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 271,
+    "expression": "various",
+    "translation": "様々な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 272,
+    "expression": "brief",
+    "translation": "簡単な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 273,
+    "expression": "full-time",
+    "translation": "フルタイム",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 274,
+    "expression": "overall",
+    "translation": "全体",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 275,
+    "expression": "achieve",
+    "translation": "成し遂げる",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 276,
+    "expression": "basis",
+    "translation": "基礎",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 277,
+    "expression": "complex",
+    "translation": "複雑な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 278,
+    "expression": "delighted",
+    "translation": "喜んだ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 279,
+    "expression": "obtain",
+    "translation": "得る",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 280,
+    "expression": "honor",
+    "translation": "名誉",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 281,
+    "expression": "properly",
+    "translation": "きちんと",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 282,
+    "expression": "suitable",
+    "translation": "適切な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 283,
+    "expression": "electronic",
+    "translation": "電子",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 284,
+    "expression": "finalize",
+    "translation": "仕上げる",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 285,
+    "expression": "generous",
+    "translation": "寛大",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 286,
+    "expression": "preparation",
+    "translation": "準備",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 287,
+    "expression": "duty",
+    "translation": "義務",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 288,
+    "expression": "earn",
+    "translation": "得る",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 289,
+    "expression": "willing",
+    "translation": "喜んで",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 290,
+    "expression": "worth",
+    "translation": "価値",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 291,
+    "expression": "fund",
+    "translation": "基金",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 292,
+    "expression": "overnight",
+    "translation": "一晩中",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 293,
+    "expression": "particularly",
+    "translation": "特に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 294,
+    "expression": "aspect",
+    "translation": "側面",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 295,
+    "expression": "hesitate",
+    "translation": "ためらう",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 296,
+    "expression": "involved",
+    "translation": "関与した",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 297,
+    "expression": "regularly",
+    "translation": "定期的に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 298,
+    "expression": "scholarship",
+    "translation": "奨学金",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 299,
+    "expression": "shortly",
+    "translation": "間もなく",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 300,
+    "expression": "automobile",
+    "translation": "自動車",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 301,
+    "expression": "deposit",
+    "translation": "デポジット",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 302,
+    "expression": "contain",
+    "translation": "含む",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 303,
+    "expression": "content",
+    "translation": "コンテンツ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 304,
+    "expression": "proof",
+    "translation": "証拠",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 305,
+    "expression": "affect",
+    "translation": "影響する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 306,
+    "expression": "recognize",
+    "translation": "認識する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 307,
+    "expression": "represent",
+    "translation": "代表する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 308,
+    "expression": "transfer",
+    "translation": "移行",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 309,
+    "expression": "anniversary",
+    "translation": "周年",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 310,
+    "expression": "automatically",
+    "translation": "自動的に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 311,
+    "expression": "capacity",
+    "translation": "容量",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 312,
+    "expression": "destination",
+    "translation": "行き先",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 313,
+    "expression": "grant",
+    "translation": "付与",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 314,
+    "expression": "publish",
+    "translation": "公開",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 315,
+    "expression": "accompany",
+    "translation": "同行する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 316,
+    "expression": "economic",
+    "translation": "経済的な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 317,
+    "expression": "extremely",
+    "translation": "非常に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 318,
+    "expression": "institution",
+    "translation": "機関",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 319,
+    "expression": "accurate",
+    "translation": "正確な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 320,
+    "expression": "compete",
+    "translation": "競争する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 321,
+    "expression": "emphasize",
+    "translation": "強調する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 322,
+    "expression": "aware",
+    "translation": "わかっている",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 323,
+    "expression": "crowded",
+    "translation": "混雑した",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 324,
+    "expression": "praise",
+    "translation": "賞賛",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 325,
+    "expression": "valuable",
+    "translation": "貴重な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 326,
+    "expression": "explore",
+    "translation": "探検する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 327,
+    "expression": "found",
+    "translation": "見つかった",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 328,
+    "expression": "function",
+    "translation": "関数",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 329,
+    "expression": "impact",
+    "translation": "インパクト",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 330,
+    "expression": "amazing",
+    "translation": "すばらしい",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 331,
+    "expression": "assure",
+    "translation": "保証します",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 332,
+    "expression": "cooperation",
+    "translation": "協力",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 333,
+    "expression": "popularity",
+    "translation": "人気",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 334,
+    "expression": "permit",
+    "translation": "許可する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 335,
+    "expression": "solve",
+    "translation": "解決する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 336,
+    "expression": "vote",
+    "translation": "投票する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 337,
+    "expression": "crop",
+    "translation": "作物",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 338,
+    "expression": "neighborhood",
+    "translation": "近所",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 339,
+    "expression": "permanent",
+    "translation": "永続",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 340,
+    "expression": "regret",
+    "translation": "後悔",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 341,
+    "expression": "slightly",
+    "translation": "わずかに",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 342,
+    "expression": "complicated",
+    "translation": "複雑",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 343,
+    "expression": "factor",
+    "translation": "要素",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 344,
+    "expression": "favorable",
+    "translation": "有利な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 345,
+    "expression": "guarantee",
+    "translation": "保証",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 346,
+    "expression": "mechanical",
+    "translation": "機械的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 347,
+    "expression": "priority",
+    "translation": "優先度",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 348,
+    "expression": "relatively",
+    "translation": "比較的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 349,
+    "expression": "resource",
+    "translation": "リソース",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 350,
+    "expression": "shuttle",
+    "translation": "シャトル",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 351,
+    "expression": "divide",
+    "translation": "分ける",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 352,
+    "expression": "native",
+    "translation": "ネイティブ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 353,
+    "expression": "afford",
+    "translation": "余裕ある",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 354,
+    "expression": "income",
+    "translation": "所得",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 355,
+    "expression": "occur",
+    "translation": "起こる",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 356,
+    "expression": "saving",
+    "translation": "節約",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 357,
+    "expression": "findings",
+    "translation": "所見",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 358,
+    "expression": "locate",
+    "translation": "見つける",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 359,
+    "expression": "postpone",
+    "translation": "延期",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 360,
+    "expression": "preserve",
+    "translation": "保存する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 361,
+    "expression": "prove",
+    "translation": "証明する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 362,
+    "expression": "exact",
+    "translation": "ちょうど",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 363,
+    "expression": "gain",
+    "translation": "得",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 364,
+    "expression": "labor",
+    "translation": "労働",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 365,
+    "expression": "regard",
+    "translation": "尊重する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 366,
+    "expression": "closely",
+    "translation": "密接に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 367,
+    "expression": "deserve",
+    "translation": "値する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 368,
+    "expression": "identify",
+    "translation": "識別する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 369,
+    "expression": "loyal",
+    "translation": "忠実な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 370,
+    "expression": "promising",
+    "translation": "有望な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 371,
+    "expression": "stress",
+    "translation": "ストレス",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 372,
+    "expression": "analyze",
+    "translation": "分析する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 373,
+    "expression": "commission",
+    "translation": "手数料",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 374,
+    "expression": "committed",
+    "translation": "コミットした",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 375,
+    "expression": "comparison",
+    "translation": "比較",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 376,
+    "expression": "component",
+    "translation": "成分",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 377,
+    "expression": "enable",
+    "translation": "有効にする",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 378,
+    "expression": "enjoyable",
+    "translation": "楽しい",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 379,
+    "expression": "existing",
+    "translation": "既存 ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 380,
+    "expression": "flyer",
+    "translation": "チラシ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 381,
+    "expression": "proceed",
+    "translation": "進む",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 382,
+    "expression": "prevent",
+    "translation": "防ぐ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 383,
+    "expression": "alike",
+    "translation": "似ている",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 384,
+    "expression": "appoint",
+    "translation": "任命する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 385,
+    "expression": "connection",
+    "translation": "繋がり",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 386,
+    "expression": "eager",
+    "translation": "熱心な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 387,
+    "expression": "ease",
+    "translation": "容易に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 388,
+    "expression": "fairly",
+    "translation": "かなり",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 389,
+    "expression": "absolutely",
+    "translation": "絶対に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 390,
+    "expression": "atmosphere",
+    "translation": "雰囲気",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 391,
+    "expression": "calculate",
+    "translation": "計算する",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 392,
+    "expression": "contrast",
+    "translation": "対比",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 393,
+    "expression": "monitor",
+    "translation": "モニター",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 394,
+    "expression": "occasionally",
+    "translation": "たまに",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 395,
+    "expression": "practical",
+    "translation": "実用的",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 396,
+    "expression": "serious",
+    "translation": "深刻な",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 397,
+    "expression": "strength",
+    "translation": "強さ",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 398,
+    "expression": "equally",
+    "translation": "平等に",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 399,
+    "expression": "import",
+    "translation": "輸入",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 400,
+    "expression": "informal",
+    "translation": "非公式",
+    "section": "600点レベル 助走の400語",
+    "pos": ""
+  },
+  {
+    "id": 401,
+    "expression": "face",
+    "translation": "顔",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 402,
+    "expression": "wear",
+    "translation": "着る",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 403,
+    "expression": "point",
+    "translation": "ポイント",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 404,
+    "expression": "shelf",
+    "translation": "棚",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 405,
+    "expression": "ladder",
+    "translation": "ラダー",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 406,
+    "expression": "trim",
+    "translation": "トリム",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 407,
+    "expression": "examine",
+    "translation": "診る",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 408,
+    "expression": "greet",
+    "translation": "挨拶する",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 409,
+    "expression": "sweep",
+    "translation": "スイープ",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 410,
+    "expression": "adjust",
+    "translation": "調整する",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 411,
+    "expression": "head",
+    "translation": "頭",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 412,
+    "expression": "handle",
+    "translation": "ハンドル",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 413,
+    "expression": "lean",
+    "translation": "傾く",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 414,
+    "expression": "cashier",
+    "translation": "キャッシャー",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 415,
+    "expression": "polish",
+    "translation": "研磨",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 416,
+    "expression": "lid",
+    "translation": "蓋",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 417,
+    "expression": "stool",
+    "translation": "スツール",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 418,
+    "expression": "crosswalk",
+    "translation": "横断歩道",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 419,
+    "expression": "brick",
+    "translation": "レンガ",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 420,
+    "expression": "hang",
+    "translation": "下がる",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 421,
+    "expression": "kneel",
+    "translation": "ひざまずく",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 422,
+    "expression": "sew",
+    "translation": "縫う",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 423,
+    "expression": "be propped up against",
+    "translation": "支えられる",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 424,
+    "expression": "walkway",
+    "translation": "歩道",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 425,
+    "expression": "side by side",
+    "translation": "並んで",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 426,
+    "expression": "applaud",
+    "translation": "拍手する",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 427,
+    "expression": "water",
+    "translation": "水",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 428,
+    "expression": "fasten",
+    "translation": "締める",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 429,
+    "expression": "hallway",
+    "translation": "廊下",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 430,
+    "expression": "microscope",
+    "translation": "顕微鏡",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 431,
+    "expression": "mount",
+    "translation": "マウント",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 432,
+    "expression": "audience",
+    "translation": "観客",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 433,
+    "expression": "plaza",
+    "translation": "プラザ",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 434,
+    "expression": "glove",
+    "translation": "グローブ",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 435,
+    "expression": "place",
+    "translation": "場所",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 436,
+    "expression": "protective",
+    "translation": "保護的な",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 437,
+    "expression": "scattered",
+    "translation": "散らばっている",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 438,
+    "expression": "artwork",
+    "translation": "アートワーク",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 439,
+    "expression": "cast a shadow",
+    "translation": "影を落とす",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 440,
+    "expression": "page through",
+    "translation": "ページスルー",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 441,
+    "expression": "row",
+    "translation": "行",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 442,
+    "expression": "reach",
+    "translation": "到着",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 443,
+    "expression": "diner",
+    "translation": "ダイナー",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 444,
+    "expression": "pour",
+    "translation": "注ぐ",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 445,
+    "expression": "load",
+    "translation": "負荷",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 446,
+    "expression": "board",
+    "translation": "ボード",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 447,
+    "expression": "pot",
+    "translation": "ポット",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 448,
+    "expression": "garbage can",
+    "translation": "ごみ箱",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 449,
+    "expression": "stack",
+    "translation": "スタック",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 450,
+    "expression": "drawer",
+    "translation": "引き出し",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 451,
+    "expression": "instrument",
+    "translation": "楽器",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 452,
+    "expression": "remove",
+    "translation": "取り除く",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 453,
+    "expression": "cargo",
+    "translation": "貨物",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 454,
+    "expression": "auditorium",
+    "translation": "講堂",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 455,
+    "expression": "railing",
+    "translation": "手すり",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 456,
+    "expression": "potted plant",
+    "translation": "鉢植え",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 457,
+    "expression": "position",
+    "translation": "位置",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 458,
+    "expression": "browse",
+    "translation": "ブラウズ",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 459,
+    "expression": "reflect",
+    "translation": "反映する",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 460,
+    "expression": "lay out",
+    "translation": "レイアウトする",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 461,
+    "expression": "doorway",
+    "translation": "戸口",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 462,
+    "expression": "wheel",
+    "translation": "車輪",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 463,
+    "expression": "lead to",
+    "translation": "につながる",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 464,
+    "expression": "sit opposite",
+    "translation": "向かいに座る",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 465,
+    "expression": "in the distance",
+    "translation": "遠くにある",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 466,
+    "expression": "mow",
+    "translation": "刈る",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 467,
+    "expression": "vase",
+    "translation": "花瓶",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 468,
+    "expression": "fountain",
+    "translation": "噴水",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 469,
+    "expression": "intersection",
+    "translation": "交差点",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 470,
+    "expression": "platform",
+    "translation": "プラットフォーム",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 471,
+    "expression": "dock",
+    "translation": "ドック",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 472,
+    "expression": "glance",
+    "translation": "一目",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 473,
+    "expression": "cupboard",
+    "translation": "戸棚",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 474,
+    "expression": "exit",
+    "translation": "出口",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 475,
+    "expression": "workstation",
+    "translation": "ワークステーション",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 476,
+    "expression": "gaze",
+    "translation": "視線",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 477,
+    "expression": "curb",
+    "translation": "縁石",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 478,
+    "expression": "slanted",
+    "translation": "傾いた",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 479,
+    "expression": "staircase",
+    "translation": "階段",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 480,
+    "expression": "spectator",
+    "translation": "観客",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 481,
+    "expression": "courtyard",
+    "translation": "中庭",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 482,
+    "expression": "pottery",
+    "translation": "陶器",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 483,
+    "expression": "cookware",
+    "translation": "調理器具",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 484,
+    "expression": "overlook",
+    "translation": "見落とす",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 485,
+    "expression": "pier",
+    "translation": "桟橋",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 486,
+    "expression": "lighthouse",
+    "translation": "灯台",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 487,
+    "expression": "portrait",
+    "translation": "肖像画",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 488,
+    "expression": "unattended",
+    "translation": "無人",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 489,
+    "expression": "awning",
+    "translation": "オーニング",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 490,
+    "expression": "patio",
+    "translation": "パティオ",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 491,
+    "expression": "unoccupied",
+    "translation": "空いている",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 492,
+    "expression": "pedestrian",
+    "translation": "歩行者",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 493,
+    "expression": "crate",
+    "translation": "木箱",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 494,
+    "expression": "utensil",
+    "translation": "器具",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 495,
+    "expression": "station",
+    "translation": "駅",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 496,
+    "expression": "window pane",
+    "translation": "窓ガラス",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 497,
+    "expression": "stroll",
+    "translation": "散歩",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 498,
+    "expression": "lamppost",
+    "translation": "街灯柱",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 499,
+    "expression": "wheelbarrow",
+    "translation": "手押し車",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 500,
+    "expression": "canopy",
+    "translation": "キャノピー",
+    "section": "1パート1重要語100",
+    "pos": ""
+  },
+  {
+    "id": 501,
+    "expression": "refrigerator",
+    "translation": "冷蔵庫",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 502,
+    "expression": "microwave oven",
+    "translation": "電子レンジ",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 503,
+    "expression": "stove",
+    "translation": "レンジ",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 504,
+    "expression": "air conditioner",
+    "translation": "エアコン",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 505,
+    "expression": "heater",
+    "translation": "ヒータ",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 506,
+    "expression": "vacuum cleaner",
+    "translation": "掃除機",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 507,
+    "expression": "washing machine",
+    "translation": "洗濯機",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 508,
+    "expression": "(light) bulb",
+    "translation": "（電球",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 509,
+    "expression": "bookcase",
+    "translation": "本棚",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 510,
+    "expression": "bookshelf",
+    "translation": "本棚",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 511,
+    "expression": "(laundry) detergent",
+    "translation": "（洗濯用）洗剤",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 512,
+    "expression": "light fixture",
+    "translation": "照明器具",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 513,
+    "expression": "stapler",
+    "translation": "ホッチキス",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 514,
+    "expression": "sunscreen",
+    "translation": "日焼け止め",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 515,
+    "expression": "envelope",
+    "translation": "封筒",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 516,
+    "expression": "scale",
+    "translation": "規模",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 517,
+    "expression": "cupboard",
+    "translation": "戸棚",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 518,
+    "expression": "scissors",
+    "translation": "はさみ",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 519,
+    "expression": "stationery",
+    "translation": "文房具",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 520,
+    "expression": "plastic bag",
+    "translation": "ビニール袋",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 521,
+    "expression": "folding chair",
+    "translation": "折りたたみ椅子",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 522,
+    "expression": "cardboard box",
+    "translation": "段ボール箱",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 523,
+    "expression": "rug",
+    "translation": "ラグ",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 524,
+    "expression": "drape",
+    "translation": "ドレープ",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 525,
+    "expression": "scarf",
+    "translation": "スカーフ",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 526,
+    "expression": "laptop",
+    "translation": "ラップトップ",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 527,
+    "expression": "mobile phone",
+    "translation": "携帯電話",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 528,
+    "expression": "cell phone",
+    "translation": "携帯電話",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 529,
+    "expression": "photocopier",
+    "translation": "コピー機",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 530,
+    "expression": "copy machine",
+    "translation": "コピー機",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 531,
+    "expression": "rechargeable battery",
+    "translation": "充電式バッテリー",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 532,
+    "expression": "briefcase",
+    "translation": "ブリーフケース",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 533,
+    "expression": "revolving door",
+    "translation": "回転ドア",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 534,
+    "expression": "freight elevator",
+    "translation": "貨物用エレベーター",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 535,
+    "expression": "treadmill",
+    "translation": "トレッドミル",
+    "section": "Short Break - TOEICに出る注意すべき日常単語",
+    "pos": ""
+  },
+  {
+    "id": 536,
+    "expression": "lately",
+    "translation": "最近",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 537,
+    "expression": "profession",
+    "translation": "職業",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 538,
+    "expression": "supervisor",
+    "translation": "監督者",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 539,
+    "expression": "ensure",
+    "translation": "確保する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 540,
+    "expression": "submission",
+    "translation": "提出",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 541,
+    "expression": "notify",
+    "translation": "通知する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 542,
+    "expression": "definitely",
+    "translation": "絶対に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 543,
+    "expression": "eligible",
+    "translation": "適格",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 544,
+    "expression": "paperwork",
+    "translation": "書類仕事",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 545,
+    "expression": "complimentary",
+    "translation": "無料",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 546,
+    "expression": "revise",
+    "translation": "改訂",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 547,
+    "expression": "track",
+    "translation": "追跡",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 548,
+    "expression": "administrative",
+    "translation": "管理的な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 549,
+    "expression": "retail",
+    "translation": "小売り",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 550,
+    "expression": "inventory",
+    "translation": "在庫",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 551,
+    "expression": "extensive",
+    "translation": "広範囲にわたる",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 552,
+    "expression": "promotional",
+    "translation": "プロモーション",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 553,
+    "expression": "catering",
+    "translation": "ケータリング",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 554,
+    "expression": "wildlife",
+    "translation": "野生動物",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 555,
+    "expression": "assign",
+    "translation": "割り当てる",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 556,
+    "expression": "imply",
+    "translation": "暗示する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 557,
+    "expression": "banquet",
+    "translation": "バンケット",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 558,
+    "expression": "valid",
+    "translation": "有効",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 559,
+    "expression": "affordable",
+    "translation": "手頃な価格",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 560,
+    "expression": "renovate",
+    "translation": "改修する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 561,
+    "expression": "guidelines",
+    "translation": "ガイドライン",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 562,
+    "expression": "certificate",
+    "translation": "証明書",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 563,
+    "expression": "innovative",
+    "translation": "革新的な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 564,
+    "expression": "agenda",
+    "translation": "議題",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 565,
+    "expression": "assembly",
+    "translation": "組み立て",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 566,
+    "expression": "install",
+    "translation": "インストール",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 567,
+    "expression": "orientation",
+    "translation": "向き",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 568,
+    "expression": "renowned",
+    "translation": "有名な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 569,
+    "expression": "appropriate",
+    "translation": "適切な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 570,
+    "expression": "ingredient",
+    "translation": "材料",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 571,
+    "expression": "storage",
+    "translation": "ストレージ",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 572,
+    "expression": "beverage",
+    "translation": "飲み物",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 573,
+    "expression": "prior",
+    "translation": "前",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 574,
+    "expression": "merger",
+    "translation": "合併",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 575,
+    "expression": "inn",
+    "translation": "宿",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 576,
+    "expression": "equip",
+    "translation": "装備する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 577,
+    "expression": "summary",
+    "translation": "まとめ",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 578,
+    "expression": "lease",
+    "translation": "リース",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 579,
+    "expression": "defective",
+    "translation": "欠陥のある",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 580,
+    "expression": "quarterly",
+    "translation": "季刊",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 581,
+    "expression": "extended",
+    "translation": "延長された",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 582,
+    "expression": "architect",
+    "translation": "建築家",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 583,
+    "expression": "grocery",
+    "translation": "食料品",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 584,
+    "expression": "sculpture",
+    "translation": "彫刻",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 585,
+    "expression": "itinerary",
+    "translation": "旅程",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 586,
+    "expression": "directory",
+    "translation": "ディレクトリ",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 587,
+    "expression": "expire",
+    "translation": "期限切れ",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 588,
+    "expression": "vendor",
+    "translation": "ベンダー",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 589,
+    "expression": "colleague",
+    "translation": "同僚",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 590,
+    "expression": "patron",
+    "translation": "パトロン",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 591,
+    "expression": "relocate",
+    "translation": "移転する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 592,
+    "expression": "tourism",
+    "translation": "観光",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 593,
+    "expression": "remodel",
+    "translation": "改造する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 594,
+    "expression": "consumer",
+    "translation": "消費者",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 595,
+    "expression": "inspect",
+    "translation": "検査する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 596,
+    "expression": "numerous",
+    "translation": "多数の",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 597,
+    "expression": "payroll",
+    "translation": "給与計算",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 598,
+    "expression": "qualified",
+    "translation": "資格のある",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 599,
+    "expression": "appliance",
+    "translation": "アプライアンス",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 600,
+    "expression": "competitive",
+    "translation": "競争力",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 601,
+    "expression": "specialize",
+    "translation": "専門化する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 602,
+    "expression": "questionnaire",
+    "translation": "アンケート",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 603,
+    "expression": "approximately",
+    "translation": "約",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 604,
+    "expression": "contribute",
+    "translation": "貢献する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 605,
+    "expression": "productivity",
+    "translation": "生産性",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 606,
+    "expression": "promptly",
+    "translation": "すぐに",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 607,
+    "expression": "strategy",
+    "translation": "戦略",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 608,
+    "expression": "dedicated",
+    "translation": "ひたむきな",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 609,
+    "expression": "exceptional",
+    "translation": "例外的な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 610,
+    "expression": "luncheon",
+    "translation": "ランチョン",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 611,
+    "expression": "exceed",
+    "translation": "超える",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 612,
+    "expression": "multiple",
+    "translation": "複数",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 613,
+    "expression": "specify",
+    "translation": "特定",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 614,
+    "expression": "venue",
+    "translation": "会場",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 615,
+    "expression": "household",
+    "translation": "家庭",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 616,
+    "expression": "evaluate",
+    "translation": "評価する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 617,
+    "expression": "negotiate",
+    "translation": "交渉する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 618,
+    "expression": "booking",
+    "translation": "予約",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 619,
+    "expression": "circulation",
+    "translation": "循環",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 620,
+    "expression": "completion",
+    "translation": "完了",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 621,
+    "expression": "relevant",
+    "translation": "関連する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 622,
+    "expression": "thorough",
+    "translation": "徹底した",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 623,
+    "expression": "via",
+    "translation": "経由",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 624,
+    "expression": "workplace",
+    "translation": "職場",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 625,
+    "expression": "accommodations",
+    "translation": "宿泊施設",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 626,
+    "expression": "flexible",
+    "translation": "フレキシブル",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 627,
+    "expression": "predict",
+    "translation": "予測する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 628,
+    "expression": "preference",
+    "translation": "好み",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 629,
+    "expression": "substantial",
+    "translation": "実質的な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 630,
+    "expression": "accessible",
+    "translation": "アクセス可能な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 631,
+    "expression": "coverage",
+    "translation": "カバレッジ",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 632,
+    "expression": "generate",
+    "translation": "生成する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 633,
+    "expression": "refreshment",
+    "translation": "軽食",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 634,
+    "expression": "reliable",
+    "translation": "信頼性のある",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 635,
+    "expression": "revenue",
+    "translation": "収益",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 636,
+    "expression": "fund-raising",
+    "translation": "募金",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 637,
+    "expression": "accomplished",
+    "translation": "達成した",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 638,
+    "expression": "acquire",
+    "translation": "取得する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 639,
+    "expression": "accordingly",
+    "translation": "それに応じて",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 640,
+    "expression": "critic",
+    "translation": "評論家",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 641,
+    "expression": "highlight",
+    "translation": "ハイライト",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 642,
+    "expression": "profile",
+    "translation": "プロフィール",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 643,
+    "expression": "motivate",
+    "translation": "やる気を起こさせる",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 644,
+    "expression": "subscription",
+    "translation": "サブスクリプション",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 645,
+    "expression": "encounter",
+    "translation": "出会い",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 646,
+    "expression": "luxury",
+    "translation": "贅沢",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 647,
+    "expression": "prohibit",
+    "translation": "禁止する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 648,
+    "expression": "resolve",
+    "translation": "解決する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 649,
+    "expression": "restore",
+    "translation": "復元する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 650,
+    "expression": "surrounding",
+    "translation": "周囲の",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 651,
+    "expression": "alert",
+    "translation": "警告",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 652,
+    "expression": "anticipated",
+    "translation": "予想される",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 653,
+    "expression": "consistently",
+    "translation": "一貫して",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 654,
+    "expression": "dairy",
+    "translation": "乳製品",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 655,
+    "expression": "phase",
+    "translation": "段階",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 656,
+    "expression": "manuscript",
+    "translation": "原稿",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 657,
+    "expression": "overtime",
+    "translation": "時間とともに",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 658,
+    "expression": "premises",
+    "translation": "敷地内",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 659,
+    "expression": "utility",
+    "translation": "ユーティリティ",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 660,
+    "expression": "laundry",
+    "translation": "ランドリー",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 661,
+    "expression": "enthusiastic",
+    "translation": "熱狂的",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 662,
+    "expression": "outline",
+    "translation": "概要",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 663,
+    "expression": "packet",
+    "translation": "パケット",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 664,
+    "expression": "retain",
+    "translation": "保持",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 665,
+    "expression": "belongings",
+    "translation": "持ち物",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 666,
+    "expression": "conservation",
+    "translation": "保全",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 667,
+    "expression": "routine",
+    "translation": "ルーティーン",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 668,
+    "expression": "urban",
+    "translation": "都会的な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 669,
+    "expression": "workforce",
+    "translation": "労働力",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 670,
+    "expression": "biography",
+    "translation": "バイオグラフィー",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 671,
+    "expression": "ownership",
+    "translation": "所有",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 672,
+    "expression": "pastry",
+    "translation": "ペストリー",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 673,
+    "expression": "tenant",
+    "translation": "テナント",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 674,
+    "expression": "workload",
+    "translation": "仕事量",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 675,
+    "expression": "sufficient",
+    "translation": "十分な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 676,
+    "expression": "characteristic",
+    "translation": "特性",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 677,
+    "expression": "combined",
+    "translation": "組み合わせた",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 678,
+    "expression": "conclude",
+    "translation": "結論する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 679,
+    "expression": "associate",
+    "translation": "仲間",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 680,
+    "expression": "conflict",
+    "translation": "対立",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 681,
+    "expression": "investment",
+    "translation": "投資",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 682,
+    "expression": "physician",
+    "translation": "医師",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 683,
+    "expression": "token",
+    "translation": "トークン",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 684,
+    "expression": "partial",
+    "translation": "部分的",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 685,
+    "expression": "resume",
+    "translation": "再開する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 686,
+    "expression": "dealership",
+    "translation": "ディーラー",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 687,
+    "expression": "garment",
+    "translation": "衣服",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 688,
+    "expression": "implement",
+    "translation": "埋め込む",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 689,
+    "expression": "paycheck",
+    "translation": "給料",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 690,
+    "expression": "recruit",
+    "translation": "リクルート",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 691,
+    "expression": "substitute",
+    "translation": "代わりの",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 692,
+    "expression": "typically",
+    "translation": "通常",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 693,
+    "expression": "authorize",
+    "translation": "許可する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 694,
+    "expression": "comparable",
+    "translation": "匹敵する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 695,
+    "expression": "faculty",
+    "translation": "学部",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 696,
+    "expression": "initiative",
+    "translation": "主導権",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 697,
+    "expression": "postage",
+    "translation": "送料",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 698,
+    "expression": "afterwards",
+    "translation": "その後",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 699,
+    "expression": "aim",
+    "translation": "標的",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 700,
+    "expression": "generally",
+    "translation": "一般的に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 701,
+    "expression": "occupied",
+    "translation": "占領されている",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 702,
+    "expression": "solid",
+    "translation": "固体",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 703,
+    "expression": "attempt",
+    "translation": "試み",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 704,
+    "expression": "authority",
+    "translation": "権限",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 705,
+    "expression": "domestic",
+    "translation": "国内",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 706,
+    "expression": "permission",
+    "translation": "許可",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 707,
+    "expression": "presence",
+    "translation": "面前",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 708,
+    "expression": "rapidly",
+    "translation": "急速に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 709,
+    "expression": "relief",
+    "translation": "安心",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 710,
+    "expression": "reward",
+    "translation": "褒美",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 711,
+    "expression": "translate",
+    "translation": "翻訳する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 712,
+    "expression": "circumstance",
+    "translation": "状況",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 713,
+    "expression": "contrary",
+    "translation": "逆に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 714,
+    "expression": "eventually",
+    "translation": "最終的に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 715,
+    "expression": "expose",
+    "translation": "さらす",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 716,
+    "expression": "panel",
+    "translation": "パネル",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 717,
+    "expression": "portion",
+    "translation": "部分",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 718,
+    "expression": "primary",
+    "translation": "主要な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 719,
+    "expression": "remark",
+    "translation": "述べる",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 720,
+    "expression": "timely",
+    "translation": "タイムリーな",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 721,
+    "expression": "commonly",
+    "translation": "一般的に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 722,
+    "expression": "consult",
+    "translation": "相談する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 723,
+    "expression": "convert",
+    "translation": "変換する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 724,
+    "expression": "obligation",
+    "translation": "義務",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 725,
+    "expression": "resign",
+    "translation": "辞任する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 726,
+    "expression": "securely",
+    "translation": "安全に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 727,
+    "expression": "strive",
+    "translation": "努力する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 728,
+    "expression": "timeline",
+    "translation": "タイムライン",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 729,
+    "expression": "urge",
+    "translation": "衝動",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 730,
+    "expression": "acknowledge",
+    "translation": "認める",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 731,
+    "expression": "diverse",
+    "translation": "多様な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 732,
+    "expression": "transaction",
+    "translation": "取引",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 733,
+    "expression": "lack",
+    "translation": "足らない",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 734,
+    "expression": "essential",
+    "translation": "不可欠",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 735,
+    "expression": "majority",
+    "translation": "過半数",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 736,
+    "expression": "observe",
+    "translation": "観察する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 737,
+    "expression": "possess",
+    "translation": "所有する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 738,
+    "expression": "sharply",
+    "translation": "鋭く",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 739,
+    "expression": "adjustment",
+    "translation": "調整",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 740,
+    "expression": "aisle",
+    "translation": "通路",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 741,
+    "expression": "capture",
+    "translation": "捕獲",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 742,
+    "expression": "consist",
+    "translation": "構成",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 743,
+    "expression": "desirable",
+    "translation": "望ましい",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 744,
+    "expression": "heavily",
+    "translation": "重く",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 745,
+    "expression": "investigate",
+    "translation": "調査する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 746,
+    "expression": "measurement",
+    "translation": "測定",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 747,
+    "expression": "urgent",
+    "translation": "緊急",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 748,
+    "expression": "checkout",
+    "translation": "チェックアウト",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 749,
+    "expression": "dispose",
+    "translation": "処分する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 750,
+    "expression": "modify",
+    "translation": "修正する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 751,
+    "expression": "outlet",
+    "translation": "出口",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 752,
+    "expression": "prescription",
+    "translation": "処方箋",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 753,
+    "expression": "situated",
+    "translation": "位置する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 754,
+    "expression": "surprisingly",
+    "translation": "驚くべきことに",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 755,
+    "expression": "transform",
+    "translation": "変身",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 756,
+    "expression": "undergo",
+    "translation": "受ける",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 757,
+    "expression": "blueprint",
+    "translation": "青写真",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 758,
+    "expression": "boost",
+    "translation": "ブースト",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 759,
+    "expression": "considerably",
+    "translation": "かなり",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 760,
+    "expression": "eliminate",
+    "translation": "なくす",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 761,
+    "expression": "exclusively",
+    "translation": "独占的に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 762,
+    "expression": "leak",
+    "translation": "リーク",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 763,
+    "expression": "preliminary",
+    "translation": "予備",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 764,
+    "expression": "sophisticated",
+    "translation": "洗練された",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 765,
+    "expression": "statistics",
+    "translation": "統計",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 766,
+    "expression": "vacant",
+    "translation": "空いている",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 767,
+    "expression": "evidence",
+    "translation": "証拠",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 768,
+    "expression": "excursion",
+    "translation": "遠足",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 769,
+    "expression": "influence",
+    "translation": "影響",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 770,
+    "expression": "ordinary",
+    "translation": "普通",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 771,
+    "expression": "reject",
+    "translation": "拒否する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 772,
+    "expression": "tailor",
+    "translation": "仕立て屋",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 773,
+    "expression": "assume",
+    "translation": "仮定する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 774,
+    "expression": "engagement",
+    "translation": "婚約",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 775,
+    "expression": "fame",
+    "translation": "名声",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 776,
+    "expression": "modest",
+    "translation": "控えめ",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 777,
+    "expression": "patent",
+    "translation": "特許",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 778,
+    "expression": "pursue",
+    "translation": "追求する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 779,
+    "expression": "remote",
+    "translation": "リモート",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 780,
+    "expression": "reveal",
+    "translation": "明らかにする",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 781,
+    "expression": "allowance",
+    "translation": "手当",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 782,
+    "expression": "crucial",
+    "translation": "重要な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 783,
+    "expression": "distinguished",
+    "translation": "優れた",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 784,
+    "expression": "disturb",
+    "translation": "乱す",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 785,
+    "expression": "fluent",
+    "translation": "流暢",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 786,
+    "expression": "fulfill",
+    "translation": "満たす",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 787,
+    "expression": "objective",
+    "translation": "客観的",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 788,
+    "expression": "restrict",
+    "translation": "制限",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 789,
+    "expression": "steadily",
+    "translation": "着実に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 790,
+    "expression": "adequate",
+    "translation": "十分な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 791,
+    "expression": "assessment",
+    "translation": "評価",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 792,
+    "expression": "attribute",
+    "translation": "属性",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 793,
+    "expression": "beforehand",
+    "translation": "予め",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 794,
+    "expression": "challenging",
+    "translation": "挑戦的",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 795,
+    "expression": "endeavor",
+    "translation": "努力",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 796,
+    "expression": "inspiring",
+    "translation": "感動的な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 797,
+    "expression": "remarkable",
+    "translation": "顕著",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 798,
+    "expression": "measure",
+    "translation": "測定",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 799,
+    "expression": "struggle",
+    "translation": "闘争",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 800,
+    "expression": "wage",
+    "translation": "賃金",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 801,
+    "expression": "adapt",
+    "translation": "適応する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 802,
+    "expression": "ambitious",
+    "translation": "野心的な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 803,
+    "expression": "capable",
+    "translation": "有能",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 804,
+    "expression": "consequence",
+    "translation": "結果",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 805,
+    "expression": "impose",
+    "translation": "課す",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 806,
+    "expression": "latter",
+    "translation": "後者",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 807,
+    "expression": "output",
+    "translation": "出力",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 808,
+    "expression": "proudly",
+    "translation": "誇らしげに",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 809,
+    "expression": "stable",
+    "translation": "安定した",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 810,
+    "expression": "transition",
+    "translation": "遷移",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 811,
+    "expression": "consent",
+    "translation": "同意",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 812,
+    "expression": "dependable",
+    "translation": "頼りになる",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 813,
+    "expression": "diligent",
+    "translation": "勤勉な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 814,
+    "expression": "illustrate",
+    "translation": "説明する",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 815,
+    "expression": "independently",
+    "translation": "独立して",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 816,
+    "expression": "mission",
+    "translation": "ミッション",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 817,
+    "expression": "moderate",
+    "translation": "適度",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 818,
+    "expression": "outlook",
+    "translation": "見通し",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 819,
+    "expression": "precisely",
+    "translation": "正確に",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 820,
+    "expression": "concentrated",
+    "translation": "濃縮",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 821,
+    "expression": "ample",
+    "translation": "十分な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 822,
+    "expression": "asset",
+    "translation": "資産",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 823,
+    "expression": "controversial",
+    "translation": "物議を醸す",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 824,
+    "expression": "disappointing",
+    "translation": "残念な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 825,
+    "expression": "instrumental",
+    "translation": "インストゥルメンタル",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 826,
+    "expression": "interruption",
+    "translation": "中断",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 827,
+    "expression": "perspective",
+    "translation": "視点",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 828,
+    "expression": "scope",
+    "translation": "範囲",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 829,
+    "expression": "speculation",
+    "translation": "投機",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 830,
+    "expression": "supplement",
+    "translation": "補足",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 831,
+    "expression": "understaffed",
+    "translation": "人員不足",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 832,
+    "expression": "rarely",
+    "translation": "めったに",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 833,
+    "expression": "caution",
+    "translation": "注意",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 834,
+    "expression": "legislation",
+    "translation": "法律",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 835,
+    "expression": "logical",
+    "translation": "論理的な",
+    "section": "730点レベル 加速の300語",
+    "pos": ""
+  },
+  {
+    "id": 836,
+    "expression": "board of directors",
+    "translation": "取締役会",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 837,
+    "expression": "accounting department",
+    "translation": "経理部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 838,
+    "expression": "marketing department",
+    "translation": "マーケティング部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 839,
+    "expression": "human resources department",
+    "translation": "人事部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 840,
+    "expression": "personnel department",
+    "translation": "人事部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 841,
+    "expression": "administrative department",
+    "translation": "管理部門",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 842,
+    "expression": "legal department",
+    "translation": "法務部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 843,
+    "expression": "sales department",
+    "translation": "営業部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 844,
+    "expression": "technology department",
+    "translation": "技術部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 845,
+    "expression": "security department",
+    "translation": "警備部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 846,
+    "expression": "purchasing department",
+    "translation": "購買部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 847,
+    "expression": "payroll department",
+    "translation": "給与部門",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 848,
+    "expression": "public relations department",
+    "translation": "広報部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 849,
+    "expression": "advertising department",
+    "translation": "宣伝部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 850,
+    "expression": "general affairs department",
+    "translation": "総務部",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 851,
+    "expression": "plumber",
+    "translation": "配管工",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 852,
+    "expression": "mechanic",
+    "translation": "メカニック",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 853,
+    "expression": "carpenter",
+    "translation": "大工",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 854,
+    "expression": "welder",
+    "translation": "溶接工",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 855,
+    "expression": "electrician",
+    "translation": "電気技師",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 856,
+    "expression": "civil engineer",
+    "translation": "土木技師",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 857,
+    "expression": "dentist",
+    "translation": "歯医者",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 858,
+    "expression": "surgeon",
+    "translation": "外科医",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 859,
+    "expression": "pharmacist",
+    "translation": "薬剤師",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 860,
+    "expression": "veterinarian",
+    "translation": "獣医",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 861,
+    "expression": "bakery",
+    "translation": "ベーカリー",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 862,
+    "expression": "florist",
+    "translation": "花屋",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 863,
+    "expression": "cleaner’s",
+    "translation": "掃除屋さん",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 864,
+    "expression": "locksmith",
+    "translation": "鍵屋",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 865,
+    "expression": "moving company",
+    "translation": "引越し会社",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 866,
+    "expression": "hardware store",
+    "translation": "金物店",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 867,
+    "expression": "printer",
+    "translation": "プリンター",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 868,
+    "expression": "courier",
+    "translation": "宅配便",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 869,
+    "expression": "real estate agency",
+    "translation": "不動産業者",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 870,
+    "expression": "accountant",
+    "translation": "会計士",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 871,
+    "expression": "auditor",
+    "translation": "監査人",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 872,
+    "expression": "anthropologist",
+    "translation": "人類学者",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 873,
+    "expression": "biologist",
+    "translation": "生物学者",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 874,
+    "expression": "botanist",
+    "translation": "植物学者",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 875,
+    "expression": "scientist",
+    "translation": "科学者",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 876,
+    "expression": "chemist",
+    "translation": "化学者",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 877,
+    "expression": "historian",
+    "translation": "歴史家",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 878,
+    "expression": "lawyer/attorney",
+    "translation": "弁護士/弁護士",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 879,
+    "expression": "professor",
+    "translation": "教授",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 880,
+    "expression": "paralegal",
+    "translation": "パラリーガル",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 881,
+    "expression": "journalist",
+    "translation": "ジャーナリスト",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 882,
+    "expression": "announcer",
+    "translation": "アナウンサー",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 883,
+    "expression": "host",
+    "translation": "ホスト",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 884,
+    "expression": "correspondent",
+    "translation": "特派員",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 885,
+    "expression": "editor",
+    "translation": "エディタ",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 886,
+    "expression": "proofreader",
+    "translation": "校正者",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 887,
+    "expression": "novelist",
+    "translation": "小説家",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 888,
+    "expression": "librarian",
+    "translation": "図書館員",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 889,
+    "expression": "flight attendant",
+    "translation": "客室乗務員",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 890,
+    "expression": "travel agent",
+    "translation": "旅行代理店",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 891,
+    "expression": "tour guide",
+    "translation": "ツアーガイド",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 892,
+    "expression": "concierge",
+    "translation": "コンシェルジュ",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 893,
+    "expression": "housekeeping",
+    "translation": "ハウスキーピング",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 894,
+    "expression": "conductor",
+    "translation": "導体",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 895,
+    "expression": "operator",
+    "translation": "オペレーター",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 896,
+    "expression": "architect",
+    "translation": "建築家",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 897,
+    "expression": "photographer",
+    "translation": "写真家",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 898,
+    "expression": "choreographer",
+    "translation": "振付師",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 899,
+    "expression": "actor",
+    "translation": "俳優",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 900,
+    "expression": "actress",
+    "translation": "女優",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 901,
+    "expression": "curator",
+    "translation": "キュレーター",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 902,
+    "expression": "receptionist",
+    "translation": "受付",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 903,
+    "expression": "secretary",
+    "translation": "秘書",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 904,
+    "expression": "spokesperson",
+    "translation": "広報担当者",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 905,
+    "expression": "ambassador",
+    "translation": "大使",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 906,
+    "expression": "security guard",
+    "translation": "警備員",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 907,
+    "expression": "cashier",
+    "translation": "キャッシャー",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 908,
+    "expression": "accounting",
+    "translation": "会計",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 909,
+    "expression": "architecture",
+    "translation": "建築",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 910,
+    "expression": "astronomy",
+    "translation": "天文学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 911,
+    "expression": "biology",
+    "translation": "生物学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 912,
+    "expression": "chemistry",
+    "translation": "化学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 913,
+    "expression": "ecology",
+    "translation": "生態学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 914,
+    "expression": "economics",
+    "translation": "経済",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 915,
+    "expression": "education",
+    "translation": "教育",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 916,
+    "expression": "engineering",
+    "translation": "エンジニアリング",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 917,
+    "expression": "fine arts",
+    "translation": "美術",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 918,
+    "expression": "history",
+    "translation": "歴史",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 919,
+    "expression": "journalism",
+    "translation": "ジャーナリズム",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 920,
+    "expression": "law",
+    "translation": "法",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 921,
+    "expression": "linguistics",
+    "translation": "言語学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 922,
+    "expression": "literature",
+    "translation": "文学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 923,
+    "expression": "mathematics",
+    "translation": "数学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 924,
+    "expression": "medicine",
+    "translation": "薬",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 925,
+    "expression": "philosophy",
+    "translation": "哲学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 926,
+    "expression": "physics",
+    "translation": "物理",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 927,
+    "expression": "psychology",
+    "translation": "心理学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 928,
+    "expression": "robotics",
+    "translation": "ロボット工学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 929,
+    "expression": "sociology",
+    "translation": "社会学",
+    "section": "2 部署・職業名",
+    "pos": ""
+  },
+  {
+    "id": 930,
+    "expression": "due to",
+    "translation": "により",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 931,
+    "expression": "owing to",
+    "translation": "のせいで",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 932,
+    "expression": "despite",
+    "translation": "にもかかわらず",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 933,
+    "expression": "in spite of",
+    "translation": "にもかかわらず",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 934,
+    "expression": "notwithstanding",
+    "translation": "それにもかかわらず",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 935,
+    "expression": "given",
+    "translation": "与えられた",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 936,
+    "expression": "in light of",
+    "translation": "に照らして",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 937,
+    "expression": "in the event of",
+    "translation": "の場合に",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 938,
+    "expression": "in addition to",
+    "translation": "に加えて",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 939,
+    "expression": "except for",
+    "translation": "を除いて",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 940,
+    "expression": "regardless of",
+    "translation": "かかわらず",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 941,
+    "expression": "instead of",
+    "translation": "の代わりに",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 942,
+    "expression": "whereas",
+    "translation": "一方",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 943,
+    "expression": "whether",
+    "translation": "かどうか",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 944,
+    "expression": "as soon as",
+    "translation": "出来るだけ早く",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 945,
+    "expression": "once",
+    "translation": "一度",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 946,
+    "expression": "unless",
+    "translation": "ない限り",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 947,
+    "expression": "now that",
+    "translation": "今それ",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 948,
+    "expression": "so that",
+    "translation": "となることによって",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 949,
+    "expression": "in order that",
+    "translation": "そのために",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 950,
+    "expression": "although",
+    "translation": "それでも",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 951,
+    "expression": "though",
+    "translation": "けれど",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 952,
+    "expression": "even though",
+    "translation": "それでも",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 953,
+    "expression": "even if",
+    "translation": "たとえ",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 954,
+    "expression": "provided that",
+    "translation": "という条件で",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 955,
+    "expression": "as long as",
+    "translation": "に限って",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 956,
+    "expression": "in case",
+    "translation": "万一に備えて",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 957,
+    "expression": "given that",
+    "translation": "とすれば",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 958,
+    "expression": "in the event that",
+    "translation": "その場合に",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 959,
+    "expression": "insofar as",
+    "translation": "限りにおいて",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 960,
+    "expression": "inasmuch as",
+    "translation": "限り",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 961,
+    "expression": "therefore",
+    "translation": "したがって",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 962,
+    "expression": "however",
+    "translation": "しかし",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 963,
+    "expression": "nevertheless",
+    "translation": "それにもかかわらず",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 964,
+    "expression": "moreover",
+    "translation": "さらに",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 965,
+    "expression": "furthermore",
+    "translation": "さらに",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 966,
+    "expression": "consequently",
+    "translation": "その結果",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 967,
+    "expression": "thereby",
+    "translation": "それによって",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 968,
+    "expression": "thus",
+    "translation": "したがって",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 969,
+    "expression": "meanwhile",
+    "translation": "その間",
+    "section": "3 前置詞・接続詞・接続副詞",
+    "pos": ""
+  },
+  {
+    "id": 970,
+    "expression": "lumber",
+    "translation": "木材",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 971,
+    "expression": "reverse",
+    "translation": "逆行する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 972,
+    "expression": "voluntary",
+    "translation": "自発的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 973,
+    "expression": "contractor",
+    "translation": "請負業者",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 974,
+    "expression": "on-site",
+    "translation": "現場で",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 975,
+    "expression": "comprehensive",
+    "translation": "包括的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 976,
+    "expression": "confidential",
+    "translation": "機密",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 977,
+    "expression": "expertise",
+    "translation": "専門知識",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 978,
+    "expression": "premier",
+    "translation": "プレミア",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 979,
+    "expression": "souvenir",
+    "translation": "お土産",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 980,
+    "expression": "rafting",
+    "translation": "ラフティング",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 981,
+    "expression": "compartment",
+    "translation": "区画",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 982,
+    "expression": "fabric",
+    "translation": "ファブリック",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 983,
+    "expression": "spacious",
+    "translation": "広々とした",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 984,
+    "expression": "upgrade",
+    "translation": "アップグレード",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 985,
+    "expression": "showcase",
+    "translation": "ショーケース",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 986,
+    "expression": "commuter",
+    "translation": "通勤者",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 987,
+    "expression": "enhance",
+    "translation": "強化する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 988,
+    "expression": "freight",
+    "translation": "貨物",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 989,
+    "expression": "nominate",
+    "translation": "ノミネート",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 990,
+    "expression": "discontinued",
+    "translation": "製造中止",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 991,
+    "expression": "mentoring",
+    "translation": "指導",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 992,
+    "expression": "personalized",
+    "translation": "パーソナライズされた",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 993,
+    "expression": "pharmacy",
+    "translation": "薬局",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 994,
+    "expression": "excerpt",
+    "translation": "抜粋",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 995,
+    "expression": "publicize",
+    "translation": "宣伝する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 996,
+    "expression": "tuition",
+    "translation": "学費",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 997,
+    "expression": "compliance",
+    "translation": "コンプライアンス",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 998,
+    "expression": "clarify",
+    "translation": "明らかにする",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 999,
+    "expression": "municipal",
+    "translation": "市営",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1000,
+    "expression": "respectively",
+    "translation": "それぞれ",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1001,
+    "expression": "durable",
+    "translation": "耐久性のある",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1002,
+    "expression": "landmark",
+    "translation": "ランドマーク",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1003,
+    "expression": "portfolio",
+    "translation": "ポートフォリオ",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1004,
+    "expression": "recipient",
+    "translation": "受信者",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1005,
+    "expression": "prototype",
+    "translation": "プロトタイプ",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1006,
+    "expression": "transit",
+    "translation": "トランジット",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1007,
+    "expression": "verify",
+    "translation": "確認する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1008,
+    "expression": "managerial",
+    "translation": "管理的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1009,
+    "expression": "culinary",
+    "translation": "料理の",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1010,
+    "expression": "attire",
+    "translation": "服装",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1011,
+    "expression": "reimburse",
+    "translation": "償還する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1012,
+    "expression": "courteous",
+    "translation": "丁寧",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1013,
+    "expression": "furnished",
+    "translation": "家具付き",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1014,
+    "expression": "knowledgeable",
+    "translation": "知識豊富な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1015,
+    "expression": "craftspeople",
+    "translation": "職人",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1016,
+    "expression": "delete",
+    "translation": "消去",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1017,
+    "expression": "emerging",
+    "translation": "出現しつつある",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1018,
+    "expression": "enroll",
+    "translation": "登録する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1019,
+    "expression": "proficiency",
+    "translation": "熟練度",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1020,
+    "expression": "scenic",
+    "translation": "風光明媚な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1021,
+    "expression": "state-of-the-art",
+    "translation": "最先端の",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1022,
+    "expression": "cuisine",
+    "translation": "料理",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1023,
+    "expression": "acclaimed",
+    "translation": "絶賛",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1024,
+    "expression": "certified",
+    "translation": "認定された",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1025,
+    "expression": "medication",
+    "translation": "薬",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1026,
+    "expression": "overview",
+    "translation": "概要",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1027,
+    "expression": "resistant",
+    "translation": "耐性のある",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1028,
+    "expression": "superb",
+    "translation": "すばらしい",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1029,
+    "expression": "array",
+    "translation": "配列",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1030,
+    "expression": "informative",
+    "translation": "有益な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1031,
+    "expression": "nationwide",
+    "translation": "全国的に",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1032,
+    "expression": "outdated",
+    "translation": "時代遅れの",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1033,
+    "expression": "shareholder",
+    "translation": "株主",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1034,
+    "expression": "voucher",
+    "translation": "バウチャー",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1035,
+    "expression": "adjacent",
+    "translation": "隣接",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1036,
+    "expression": "correspondence",
+    "translation": "対応",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1037,
+    "expression": "detergent",
+    "translation": "洗剤",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1038,
+    "expression": "duration",
+    "translation": "間隔",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1039,
+    "expression": "functional",
+    "translation": "機能的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1040,
+    "expression": "hands-on",
+    "translation": "実践的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1041,
+    "expression": "intensive",
+    "translation": "集中的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1042,
+    "expression": "last-minute",
+    "translation": "土壇場",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1043,
+    "expression": "thrilled",
+    "translation": "興奮した",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1044,
+    "expression": "spectacular",
+    "translation": "素晴らしい",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1045,
+    "expression": "entrepreneur",
+    "translation": "起業家",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1046,
+    "expression": "introductory",
+    "translation": "入門",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1047,
+    "expression": "minimize",
+    "translation": "最小化する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1048,
+    "expression": "prestigious",
+    "translation": "権威ある",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1049,
+    "expression": "screening",
+    "translation": "スクリーニング",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1050,
+    "expression": "amenity",
+    "translation": "アメニティ",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1051,
+    "expression": "lengthy",
+    "translation": "長い",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1052,
+    "expression": "compensate",
+    "translation": "補償する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1053,
+    "expression": "misplace",
+    "translation": "置き忘れた",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1054,
+    "expression": "notable",
+    "translation": "注目すべき",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1055,
+    "expression": "subsidiary",
+    "translation": "子会社",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1056,
+    "expression": "authentic",
+    "translation": "本物",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1057,
+    "expression": "designated",
+    "translation": "指定された",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1058,
+    "expression": "disruption",
+    "translation": "混乱",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1059,
+    "expression": "fragile",
+    "translation": "壊れやすい",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1060,
+    "expression": "ongoing",
+    "translation": "継続中",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1061,
+    "expression": "periodical",
+    "translation": "定期的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1062,
+    "expression": "plumber",
+    "translation": "配管工",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1063,
+    "expression": "incur",
+    "translation": "被る",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1064,
+    "expression": "oversee",
+    "translation": "監督する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1065,
+    "expression": "retrieve",
+    "translation": "取得する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1066,
+    "expression": "reunion",
+    "translation": "再会",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1067,
+    "expression": "rigorous",
+    "translation": "厳格な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1068,
+    "expression": "specification",
+    "translation": "仕様",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1069,
+    "expression": "tentative",
+    "translation": "仮の",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1070,
+    "expression": "tutorial",
+    "translation": "チュートリアル",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1071,
+    "expression": "apprentice",
+    "translation": "見習い",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1072,
+    "expression": "bid",
+    "translation": "入札",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1073,
+    "expression": "discard",
+    "translation": "破棄",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1074,
+    "expression": "outing",
+    "translation": "外出",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1075,
+    "expression": "overwhelmingly",
+    "translation": "圧倒的に",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1076,
+    "expression": "proceeds",
+    "translation": "収益",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1077,
+    "expression": "refrain",
+    "translation": "控える",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1078,
+    "expression": "inclement",
+    "translation": "ひどい",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1079,
+    "expression": "novice",
+    "translation": "初心者",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1080,
+    "expression": "activate",
+    "translation": "活性化",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1081,
+    "expression": "anecdote",
+    "translation": "逸話",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1082,
+    "expression": "collaboration",
+    "translation": "コラボレーション",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1083,
+    "expression": "commemorate",
+    "translation": "記念する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1084,
+    "expression": "duplicate",
+    "translation": "重複",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1085,
+    "expression": "intermission",
+    "translation": "休憩",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1086,
+    "expression": "fertilizer",
+    "translation": "肥料",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1087,
+    "expression": "proofread",
+    "translation": "校正する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1088,
+    "expression": "solicit",
+    "translation": "求める",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1089,
+    "expression": "unveil",
+    "translation": "明らかにする",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1090,
+    "expression": "applicable",
+    "translation": "該当する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1091,
+    "expression": "commend",
+    "translation": "褒める",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1092,
+    "expression": "complement",
+    "translation": "補体",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1093,
+    "expression": "incentive",
+    "translation": "インセンティブ",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1094,
+    "expression": "incorporate",
+    "translation": "組み込む",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1095,
+    "expression": "lapse",
+    "translation": "失効",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1096,
+    "expression": "picturesque",
+    "translation": "絵のように美しい",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1097,
+    "expression": "prospective",
+    "translation": "将来性のある",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1098,
+    "expression": "simplify",
+    "translation": "単純化する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1099,
+    "expression": "surpass",
+    "translation": "超える",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1100,
+    "expression": "surplus",
+    "translation": "余剰",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1101,
+    "expression": "withstand",
+    "translation": "耐える",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1102,
+    "expression": "advocate",
+    "translation": "提唱する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1103,
+    "expression": "aspiring",
+    "translation": "野心的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1104,
+    "expression": "assorted",
+    "translation": "盛り合わせ",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1105,
+    "expression": "credentials",
+    "translation": "資格",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1106,
+    "expression": "interoffice",
+    "translation": "インターオフィス",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1107,
+    "expression": "malfunction",
+    "translation": "故障",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1108,
+    "expression": "mutually",
+    "translation": "互いに",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1109,
+    "expression": "periodically",
+    "translation": "定期的に",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1110,
+    "expression": "copyright",
+    "translation": "著作権",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1111,
+    "expression": "nutritious",
+    "translation": "栄養価の高い",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1112,
+    "expression": "obstruct",
+    "translation": "邪魔する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1113,
+    "expression": "abundant",
+    "translation": "豊富な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1114,
+    "expression": "agreeable",
+    "translation": "同意できる",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1115,
+    "expression": "compromise",
+    "translation": "妥協",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1116,
+    "expression": "continuous",
+    "translation": "継続的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1117,
+    "expression": "dominant",
+    "translation": "支配的な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1118,
+    "expression": "exhausted",
+    "translation": "疲れ果てた",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1119,
+    "expression": "fierce",
+    "translation": "激しい",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1120,
+    "expression": "prosperous",
+    "translation": "繁栄した",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1121,
+    "expression": "quote",
+    "translation": "引用",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1122,
+    "expression": "reluctant",
+    "translation": "気が進まない",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1123,
+    "expression": "remedy",
+    "translation": "治療法",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1124,
+    "expression": "solely",
+    "translation": "もっぱら",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1125,
+    "expression": "vital",
+    "translation": "重要な",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1126,
+    "expression": "revitalize",
+    "translation": "活性化する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1127,
+    "expression": "commence",
+    "translation": "始める",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1128,
+    "expression": "countless",
+    "translation": "無数の",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1129,
+    "expression": "devise",
+    "translation": "工夫する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1130,
+    "expression": "execute",
+    "translation": "実行する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1131,
+    "expression": "foster",
+    "translation": "養子",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1132,
+    "expression": "initiate",
+    "translation": "開始する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1133,
+    "expression": "insight",
+    "translation": "洞察力",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1134,
+    "expression": "misleading",
+    "translation": "誤解を招く",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1135,
+    "expression": "precaution",
+    "translation": "予防措置",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1136,
+    "expression": "transparent",
+    "translation": "透明",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1137,
+    "expression": "coincide",
+    "translation": "一致する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1138,
+    "expression": "concise",
+    "translation": "簡潔",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1139,
+    "expression": "delegation",
+    "translation": "代表団",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1140,
+    "expression": "diagnosis",
+    "translation": "診断",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1141,
+    "expression": "enforce",
+    "translation": "強制する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1142,
+    "expression": "hypothesis",
+    "translation": "仮説",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1143,
+    "expression": "predecessor",
+    "translation": "前任者",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1144,
+    "expression": "prominently",
+    "translation": "目立つように",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1145,
+    "expression": "adoption",
+    "translation": "採択",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1146,
+    "expression": "accelerate",
+    "translation": "加速する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1147,
+    "expression": "adhere",
+    "translation": "付着する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1148,
+    "expression": "allocate",
+    "translation": "割り当てる",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1149,
+    "expression": "appraisal",
+    "translation": "評価",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1150,
+    "expression": "compile",
+    "translation": "コンパイル",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1151,
+    "expression": "conform",
+    "translation": "適合する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1152,
+    "expression": "constraint",
+    "translation": "制約",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1153,
+    "expression": "distraction",
+    "translation": "気晴らし",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1154,
+    "expression": "facilitate",
+    "translation": "促進する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1155,
+    "expression": "integral",
+    "translation": "積分",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1156,
+    "expression": "interact",
+    "translation": "交流する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1157,
+    "expression": "persistence",
+    "translation": "持続性",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1158,
+    "expression": "quota",
+    "translation": "クォータ",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1159,
+    "expression": "congested",
+    "translation": "混雑した",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1160,
+    "expression": "deduct",
+    "translation": "控除する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1161,
+    "expression": "embrace",
+    "translation": "抱きしめる",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1162,
+    "expression": "synthetic",
+    "translation": "合成",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1163,
+    "expression": "terminate",
+    "translation": "終了する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1164,
+    "expression": "detect",
+    "translation": "検出する",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1165,
+    "expression": "patiently",
+    "translation": "辛抱強く",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1166,
+    "expression": "ratio",
+    "translation": "比率",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1167,
+    "expression": "dietary",
+    "translation": "食事療法",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1168,
+    "expression": "intentionally",
+    "translation": "意図的に",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1169,
+    "expression": "persuasive",
+    "translation": "説得力のある",
+    "section": "860点レベル 飛躍の200語",
+    "pos": ""
+  },
+  {
+    "id": 1170,
+    "expression": "accommodate",
+    "translation": "収容する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1171,
+    "expression": "account",
+    "translation": "アカウント",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1172,
+    "expression": "address",
+    "translation": "住所",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1173,
+    "expression": "appearance",
+    "translation": "外観",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1174,
+    "expression": "apply",
+    "translation": "適用する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1175,
+    "expression": "appointment",
+    "translation": "予定",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1176,
+    "expression": "article",
+    "translation": "記事",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1177,
+    "expression": "battery",
+    "translation": "バッテリー",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1178,
+    "expression": "board",
+    "translation": "ボード",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1179,
+    "expression": "book",
+    "translation": "本",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1180,
+    "expression": "carry",
+    "translation": "運ぶ",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1181,
+    "expression": "certain",
+    "translation": "ある",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1182,
+    "expression": "complete",
+    "translation": "完了",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1183,
+    "expression": "consideration",
+    "translation": "考慮",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1184,
+    "expression": "copy",
+    "translation": "コピー",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1185,
+    "expression": "cover",
+    "translation": "カバー",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1186,
+    "expression": "critical",
+    "translation": "致命的",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1187,
+    "expression": "decline",
+    "translation": "衰退",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1188,
+    "expression": "definition",
+    "translation": "意味",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1189,
+    "expression": "deliver",
+    "translation": "届ける",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1190,
+    "expression": "demonstrate",
+    "translation": "実演する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1191,
+    "expression": "development",
+    "translation": "発達",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1192,
+    "expression": "direction",
+    "translation": "方向",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1193,
+    "expression": "drawing",
+    "translation": "描画",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1194,
+    "expression": "due",
+    "translation": "期限",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1195,
+    "expression": "edge",
+    "translation": "角",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1196,
+    "expression": "express",
+    "translation": "急行",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1197,
+    "expression": "extend",
+    "translation": "伸ばす",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1198,
+    "expression": "fare",
+    "translation": "運賃",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1199,
+    "expression": "fashion",
+    "translation": "ファッション",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1200,
+    "expression": "feature",
+    "translation": "特徴",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1201,
+    "expression": "field",
+    "translation": "分野",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1202,
+    "expression": "fine",
+    "translation": "大丈夫",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1203,
+    "expression": "forward",
+    "translation": "フォワード",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1204,
+    "expression": "hold",
+    "translation": "所有",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1205,
+    "expression": "house",
+    "translation": "家",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1206,
+    "expression": "input",
+    "translation": "入力",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1207,
+    "expression": "invite",
+    "translation": "招待する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1208,
+    "expression": "issue",
+    "translation": "問題",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1209,
+    "expression": "last",
+    "translation": "最後",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1210,
+    "expression": "lead",
+    "translation": "鉛",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1211,
+    "expression": "leave",
+    "translation": "離れる",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1212,
+    "expression": "manage",
+    "translation": "管理",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1213,
+    "expression": "mark",
+    "translation": "マーク",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1214,
+    "expression": "match",
+    "translation": "マッチ",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1215,
+    "expression": "meet",
+    "translation": "会う",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1216,
+    "expression": "minute",
+    "translation": "分",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1217,
+    "expression": "object",
+    "translation": "物体",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1218,
+    "expression": "once",
+    "translation": "一度",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1219,
+    "expression": "order",
+    "translation": "注文",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1220,
+    "expression": "otherwise",
+    "translation": "さもないと",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1221,
+    "expression": "outgoing",
+    "translation": "発信",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1222,
+    "expression": "outstanding",
+    "translation": "並外れた",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1223,
+    "expression": "party",
+    "translation": "パーティー",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1224,
+    "expression": "plant",
+    "translation": "植物",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1225,
+    "expression": "post",
+    "translation": "役職",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1226,
+    "expression": "practice",
+    "translation": "練習する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1227,
+    "expression": "present",
+    "translation": "現在",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1228,
+    "expression": "produce",
+    "translation": "生産する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1229,
+    "expression": "professional",
+    "translation": "プロ",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1230,
+    "expression": "project",
+    "translation": "プロジェクト",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1231,
+    "expression": "promote",
+    "translation": "推進する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1232,
+    "expression": "rate",
+    "translation": "レート",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1233,
+    "expression": "reach",
+    "translation": "到着",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1234,
+    "expression": "recall",
+    "translation": "想起",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1235,
+    "expression": "reception",
+    "translation": "受付",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1236,
+    "expression": "replace",
+    "translation": "交換する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1237,
+    "expression": "reservation",
+    "translation": "予約",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1238,
+    "expression": "run",
+    "translation": "走る",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1239,
+    "expression": "sample",
+    "translation": "サンプル",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1240,
+    "expression": "secure",
+    "translation": "安全な",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1241,
+    "expression": "sensitive",
+    "translation": "センシティブ",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1242,
+    "expression": "serve",
+    "translation": "仕える",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1243,
+    "expression": "service",
+    "translation": "サービス",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1244,
+    "expression": "signature",
+    "translation": "サイン",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1245,
+    "expression": "solution",
+    "translation": "解決",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1246,
+    "expression": "star",
+    "translation": "星",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1247,
+    "expression": "statement",
+    "translation": "声明",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1248,
+    "expression": "steep",
+    "translation": "急な",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1249,
+    "expression": "subject",
+    "translation": "主題",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1250,
+    "expression": "suggest",
+    "translation": "提案する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1251,
+    "expression": "suspend",
+    "translation": "つるす",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1252,
+    "expression": "table",
+    "translation": "テーブル",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1253,
+    "expression": "terms",
+    "translation": "条項",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1254,
+    "expression": "view",
+    "translation": "ビュー",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1255,
+    "expression": "weigh",
+    "translation": "重さを量る",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1256,
+    "expression": "withdraw",
+    "translation": "撤回する",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1257,
+    "expression": "work",
+    "translation": "仕事",
+    "section": "4 多義語",
+    "pos": ""
+  },
+  {
+    "id": 1258,
+    "expression": "subsequent",
+    "translation": "その後",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1259,
+    "expression": "thoughtfully",
+    "translation": "思慮深く",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1260,
+    "expression": "abridged",
+    "translation": "要約された",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1261,
+    "expression": "carpool",
+    "translation": "相乗り",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1262,
+    "expression": "compatible",
+    "translation": "互換性がある",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1263,
+    "expression": "endorse",
+    "translation": "支持する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1264,
+    "expression": "explicit",
+    "translation": "明示的な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1265,
+    "expression": "keenly",
+    "translation": "鋭く",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1266,
+    "expression": "plaque",
+    "translation": "プラーク",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1267,
+    "expression": "dilute",
+    "translation": "希薄",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1268,
+    "expression": "exempt",
+    "translation": "免除される",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1269,
+    "expression": "centerpiece",
+    "translation": "目玉",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1270,
+    "expression": "oversight",
+    "translation": "見落とし",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1271,
+    "expression": "privileged",
+    "translation": "特権的な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1272,
+    "expression": "recur",
+    "translation": "再発する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1273,
+    "expression": "skeptical",
+    "translation": "懐疑的",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1274,
+    "expression": "sustainable",
+    "translation": "持続可能な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1275,
+    "expression": "artifact",
+    "translation": "アーチファクト",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1276,
+    "expression": "keynote",
+    "translation": "基調",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1277,
+    "expression": "breathtaking",
+    "translation": "息を呑むような",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1278,
+    "expression": "cubicle",
+    "translation": "キュービクル",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1279,
+    "expression": "outage",
+    "translation": "停電",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1280,
+    "expression": "perishable",
+    "translation": "腐りやすい",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1281,
+    "expression": "avid",
+    "translation": "熱心な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1282,
+    "expression": "detour",
+    "translation": "迂回",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1283,
+    "expression": "expedite",
+    "translation": "急ぐ",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1284,
+    "expression": "vicinity",
+    "translation": "近傍",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1285,
+    "expression": "affiliated",
+    "translation": "提携している",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1286,
+    "expression": "definitive",
+    "translation": "決定的",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1287,
+    "expression": "demolish",
+    "translation": "取り壊す",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1288,
+    "expression": "feasible",
+    "translation": "実現可能",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1289,
+    "expression": "inaugural",
+    "translation": "就任式",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1290,
+    "expression": "installment",
+    "translation": "分割払い",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1291,
+    "expression": "redeemable",
+    "translation": "引き換え可能な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1292,
+    "expression": "streamline",
+    "translation": "合理化する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1293,
+    "expression": "insulation",
+    "translation": "絶縁",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1294,
+    "expression": "intact",
+    "translation": "無傷の",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1295,
+    "expression": "occupancy",
+    "translation": "占有率",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1296,
+    "expression": "turnover",
+    "translation": "ひっくり返す",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1297,
+    "expression": "unanimous",
+    "translation": "全会一致の",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1298,
+    "expression": "deteriorate",
+    "translation": "劣化する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1299,
+    "expression": "sturdy",
+    "translation": "頑丈",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1300,
+    "expression": "adverse",
+    "translation": "不利な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1301,
+    "expression": "bearer",
+    "translation": "担ぎ手",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1302,
+    "expression": "unprecedented",
+    "translation": "前例のない ",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1303,
+    "expression": "botanical",
+    "translation": "植物の",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1304,
+    "expression": "commensurate",
+    "translation": "相応の",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1305,
+    "expression": "consecutive",
+    "translation": "連続した",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1306,
+    "expression": "deliberation",
+    "translation": "審議",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1307,
+    "expression": "discreetly",
+    "translation": "慎重に",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1308,
+    "expression": "entail",
+    "translation": "伴う",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1309,
+    "expression": "fluctuation",
+    "translation": "変動",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1310,
+    "expression": "foremost",
+    "translation": "一番最初に",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1311,
+    "expression": "imperative",
+    "translation": "命令的な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1312,
+    "expression": "mandatory",
+    "translation": "必須",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1313,
+    "expression": "meticulously",
+    "translation": "細心の注意を払って",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1314,
+    "expression": "outreach",
+    "translation": "アウトリーチ",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1315,
+    "expression": "tenure",
+    "translation": "在職期間",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1316,
+    "expression": "versatile",
+    "translation": "多用途",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1317,
+    "expression": "alleviate",
+    "translation": "緩和する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1318,
+    "expression": "exemplary",
+    "translation": "模範的な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1319,
+    "expression": "gala",
+    "translation": "ガラ",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1320,
+    "expression": "mural",
+    "translation": "壁画",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1321,
+    "expression": "proprietor",
+    "translation": "経営者",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1322,
+    "expression": "stagnant",
+    "translation": "停滞している",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1323,
+    "expression": "stringent",
+    "translation": "厳しい",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1324,
+    "expression": "testimonial",
+    "translation": "証言",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1325,
+    "expression": "turnout",
+    "translation": "消す",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1326,
+    "expression": "waive",
+    "translation": "放棄する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1327,
+    "expression": "faucet",
+    "translation": "蛇口",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1328,
+    "expression": "amendment",
+    "translation": "修正",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1329,
+    "expression": "anonymous",
+    "translation": "匿名",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1330,
+    "expression": "fraud",
+    "translation": "詐欺",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1331,
+    "expression": "liable",
+    "translation": "責任がある",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1332,
+    "expression": "considerate",
+    "translation": "思いやりのある",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1333,
+    "expression": "consolidate",
+    "translation": "統合する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1334,
+    "expression": "vigorous",
+    "translation": "活発な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1335,
+    "expression": "retreat",
+    "translation": "後退",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1336,
+    "expression": "custodian",
+    "translation": "管理人",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1337,
+    "expression": "forge",
+    "translation": "フォージ",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1338,
+    "expression": "impending",
+    "translation": "差し迫った",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1339,
+    "expression": "itemize",
+    "translation": "箇条書きにする",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1340,
+    "expression": "liaison",
+    "translation": "連絡",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1341,
+    "expression": "objectionable",
+    "translation": "不快な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1342,
+    "expression": "repave",
+    "translation": "再舗装する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1343,
+    "expression": "shortcoming",
+    "translation": "欠点がある",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1344,
+    "expression": "viable",
+    "translation": "実行可能な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1345,
+    "expression": "memorabilia",
+    "translation": "記念品",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1346,
+    "expression": "deplete",
+    "translation": "枯渇する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1347,
+    "expression": "jeopardy",
+    "translation": "危険にさらされる",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1348,
+    "expression": "nominal",
+    "translation": "名目上の",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1349,
+    "expression": "deviate",
+    "translation": "逸脱する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1350,
+    "expression": "forfeit",
+    "translation": "没収",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1351,
+    "expression": "bolster",
+    "translation": "強化する",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1352,
+    "expression": "optimal",
+    "translation": "最適な",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1353,
+    "expression": "purveyor",
+    "translation": "御用達",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1354,
+    "expression": "raffle",
+    "translation": "抽選",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1355,
+    "expression": "ventilation",
+    "translation": "換気",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1356,
+    "expression": "unwavering",
+    "translation": "揺るぎない",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1357,
+    "expression": "exponentially",
+    "translation": "指数関数的に",
+    "section": "990点レベル 頂点の100語",
+    "pos": ""
+  },
+  {
+    "id": 1358,
+    "expression": "a course of action",
+    "translation": "行動方針",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1359,
+    "expression": "a number of",
+    "translation": "いくつかの",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1360,
+    "expression": "a wealth of",
+    "translation": "豊富な",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1361,
+    "expression": "above all",
+    "translation": "何よりも",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1362,
+    "expression": "after all",
+    "translation": "結局",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1363,
+    "expression": "ahead of schedule",
+    "translation": "予定より早く",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1364,
+    "expression": "along with",
+    "translation": "とともに",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1365,
+    "expression": "among other things",
+    "translation": "とりわけ",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1366,
+    "expression": "as a whole",
+    "translation": "全体として",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1367,
+    "expression": "as early as",
+    "translation": "できるだけ早く",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1368,
+    "expression": "as far as",
+    "translation": "の限り",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1369,
+    "expression": "as of",
+    "translation": "現在",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1370,
+    "expression": "aside from",
+    "translation": "別にして",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1371,
+    "expression": "at all times",
+    "translation": "いつでも",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1372,
+    "expression": "at least",
+    "translation": "少なくとも",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1373,
+    "expression": "at the latest",
+    "translation": "遅くとも",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1374,
+    "expression": "at your earliest convenience",
+    "translation": "あなたの都合の良い時に",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1375,
+    "expression": "be credited with",
+    "translation": "クレジットされる",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1376,
+    "expression": "be supposed to do",
+    "translation": "するべきである",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1377,
+    "expression": "behind schedule",
+    "translation": "予定より遅れている",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1378,
+    "expression": "box office",
+    "translation": "興行収入",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1379,
+    "expression": "bulk order",
+    "translation": "大量注文",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1380,
+    "expression": "by a wide margin",
+    "translation": "大差で",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1381,
+    "expression": "by any chance",
+    "translation": "万が一",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1382,
+    "expression": "by means of",
+    "translation": "によって",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1383,
+    "expression": "Can you do me a favor?",
+    "translation": "お願いをしてもらえますか？",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1384,
+    "expression": "come up with",
+    "translation": "思いつく",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1385,
+    "expression": "cordially invite",
+    "translation": "心から招待します",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1386,
+    "expression": "deal with",
+    "translation": "対処する",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1387,
+    "expression": "depend on",
+    "translation": "による",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1388,
+    "expression": "drop off",
+    "translation": "降ろす",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1389,
+    "expression": "Either is fine.",
+    "translation": "どちらでも構いません。",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1390,
+    "expression": "field trip",
+    "translation": "遠足",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1391,
+    "expression": "figure out",
+    "translation": "把握する",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1392,
+    "expression": "fill out",
+    "translation": "記入する",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1393,
+    "expression": "for further information",
+    "translation": "詳細については",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1394,
+    "expression": "for instance",
+    "translation": "例えば",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1395,
+    "expression": "get in touch with",
+    "translation": "連絡を取る",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1396,
+    "expression": "has/have yet to do",
+    "translation": "やっている/まだやっていない",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1397,
+    "expression": "in a rush",
+    "translation": "急いで",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1398,
+    "expression": "in a timely manner",
+    "translation": "タイムリーに",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1399,
+    "expression": "in accordance with",
+    "translation": "に従って",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1400,
+    "expression": "in an effort to do",
+    "translation": "しようとする努力の中で",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1401,
+    "expression": "in charge of",
+    "translation": "担当",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1402,
+    "expression": "in fact",
+    "translation": "実際には",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1403,
+    "expression": "in for a treat",
+    "translation": "ご褒美に",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1404,
+    "expression": "in keeping with",
+    "translation": "に合わせて",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1405,
+    "expression": "in person",
+    "translation": "直接",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1406,
+    "expression": "in short",
+    "translation": "要するに",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1407,
+    "expression": "in progress",
+    "translation": "進行中",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1408,
+    "expression": "in the long run",
+    "translation": "長期的には",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1409,
+    "expression": "in the meantime",
+    "translation": "その間に",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1410,
+    "expression": "in the process of",
+    "translation": "の過程で",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1411,
+    "expression": "in time for",
+    "translation": "に間に合うように",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1412,
+    "expression": "in writing",
+    "translation": "書面で",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1413,
+    "expression": "instead of",
+    "translation": "の代わりに",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1414,
+    "expression": "it has come to our attention that",
+    "translation": "私たちはそのことに気づきました",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1415,
+    "expression": "job fair",
+    "translation": "ジョブフェア",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1416,
+    "expression": "keep in mind that",
+    "translation": "それを心に留めておいてください",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1417,
+    "expression": "keep up with",
+    "translation": "追いつく",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1418,
+    "expression": "live up to",
+    "translation": "まで生きる",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1419,
+    "expression": "look no further than",
+    "translation": "それ以上見る必要はありません",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1420,
+    "expression": "look to do",
+    "translation": "するように見てください",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1421,
+    "expression": "lost and found",
+    "translation": "紛失したものと見つかったもの",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1422,
+    "expression": "make room for",
+    "translation": "スペースを空ける",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1423,
+    "expression": "make sense",
+    "translation": "意味をなす",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1424,
+    "expression": "narrow down",
+    "translation": "絞り込む",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1425,
+    "expression": "no later than",
+    "translation": "遅くともそれまでに",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1426,
+    "expression": "no longer",
+    "translation": "もはや",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1427,
+    "expression": "not only A but B as well",
+    "translation": "AだけでなくBも",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1428,
+    "expression": "null and void",
+    "translation": "無効",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1429,
+    "expression": "on a budget",
+    "translation": "予算内で",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1430,
+    "expression": "on a first-come, first-served basis",
+    "translation": "先着順",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1431,
+    "expression": "on average",
+    "translation": "平均して",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1432,
+    "expression": "on behalf of",
+    "translation": "に代わって",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1433,
+    "expression": "on one’s way to",
+    "translation": "に向かう途中で",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1434,
+    "expression": "on such short notice",
+    "translation": "こんなに急な通知で",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1435,
+    "expression": "on time",
+    "translation": "時間通りに",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1436,
+    "expression": "open to the public",
+    "translation": "一般公開",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1437,
+    "expression": "out of order",
+    "translation": "故障中",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1438,
+    "expression": "out of paper",
+    "translation": "紙切れ",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1439,
+    "expression": "out of place",
+    "translation": "場違いな",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1440,
+    "expression": "out of print",
+    "translation": "絶版",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1441,
+    "expression": "out of service",
+    "translation": "故障中",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1442,
+    "expression": "out of shape",
+    "translation": "形が崩れている",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1443,
+    "expression": "out of stock",
+    "translation": "在庫切れ",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1444,
+    "expression": "out of town",
+    "translation": "町の外",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1445,
+    "expression": "parking lot",
+    "translation": "駐車場",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1446,
+    "expression": "pass up the opportunity",
+    "translation": "機会を逃す",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1447,
+    "expression": "pay off",
+    "translation": "精算",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1448,
+    "expression": "plenty of",
+    "translation": "たくさんの",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1449,
+    "expression": "press conference",
+    "translation": "記者会見",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1450,
+    "expression": "press release",
+    "translation": "プレスリリース",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1451,
+    "expression": "quite a few",
+    "translation": "かなりの数",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1452,
+    "expression": "rather than",
+    "translation": "それよりも",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1453,
+    "expression": "regardless of",
+    "translation": "かかわらず",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1454,
+    "expression": "report to work",
+    "translation": "職場に報告する",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1455,
+    "expression": "right away",
+    "translation": "すぐに",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1456,
+    "expression": "room and board",
+    "translation": "部屋と食事",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1457,
+    "expression": "round-trip ticket",
+    "translation": "往復航空券",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1458,
+    "expression": "run into",
+    "translation": "に遭遇する",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1459,
+    "expression": "set aside",
+    "translation": "脇に置いておく",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1460,
+    "expression": "Should you have any questions",
+    "translation": "ご質問がございましたら",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1461,
+    "expression": "spare no expense",
+    "translation": "出費を惜しまない",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1462,
+    "expression": "speak highly of",
+    "translation": "～を高く評価する",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1463,
+    "expression": "stuck in traffic",
+    "translation": "渋滞にはまってしまう",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1464,
+    "expression": "take advantage of",
+    "translation": "利用する",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1465,
+    "expression": "take effect",
+    "translation": "発効する",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1466,
+    "expression": "take place",
+    "translation": "行われる",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1467,
+    "expression": "thanks to",
+    "translation": "おかげで",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1468,
+    "expression": "To whom it may concern",
+    "translation": "ご担当者様",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1469,
+    "expression": "trade fair",
+    "translation": "見本市",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1470,
+    "expression": "until further notice",
+    "translation": "追って通知があるまで",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1471,
+    "expression": "upon request",
+    "translation": "リクエストに応じて",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1472,
+    "expression": "wear and tear",
+    "translation": "磨耗",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1473,
+    "expression": "well in advance",
+    "translation": "かなり前に",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1474,
+    "expression": "when it comes to",
+    "translation": "となると",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1475,
+    "expression": "with the exception of",
+    "translation": "例外として",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1476,
+    "expression": "within walking distance",
+    "translation": "徒歩圏内にある",
+    "section": "5 定型表現",
+    "pos": ""
+  },
+  {
+    "id": 1477,
+    "expression": "work ethic",
+    "translation": "労働倫理",
+    "section": "5 定型表現",
+    "pos": ""
+  }
+]
